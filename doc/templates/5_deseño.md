@@ -1,12 +1,15 @@
 # FASE DE DESEÑO
 
-## Modelo conceptual do dominio da aplicación e/ou Diagrama de clases [usando UML, ConML, ou linguaxe semellante].
+## Diagrama de compoñentes do sistema
 
-## Casos de uso [descritos en fichas e/ou mediante esquemas; deben incluír o(s) tipo(s) de usuario implicados en cada caso de uso].
+## Diagrama de rede
 
-## Deseño de interface de usuarios [mockups ou diagramas...].
+## Diagrama de base de datos
 
-## Diagrama de Base de Datos.
+## Configuración dos compoñentes
+Aspectos máis relevantes da configuración dos compoñentes máis importantes:
+### Regras de fitrado do router
 
-## Diagrama de compoñentes software que constitúen o produto e de despregue.
+### Configuración do directorio activo
 
+### Configuración do DNS
