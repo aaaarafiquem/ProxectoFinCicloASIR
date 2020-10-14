@@ -19,9 +19,10 @@
 * Xestión seguridade.
 * Xestión de incidencias, que poden ser de dous tipos: de sistema (accesos non autorizados á BD, etc) ou de fallos no software.
 
-### Información relativa ó matemento do sistema: 
+### Información relativa ó mantemento do sistema: 
 
-* Corrixir erros.
+* Procedemento para o rexistro de novas versións e revisións
+* Correccións de erros.
 * Engadir novas funcionalidades.
 * Adaptación por actualizacións de software e/ou hardware.
 
@@ -30,6 +31,11 @@
 Poden ser incidencias de dous tipos: de sistema (accesos non autorizados á BD, etc) ou de fallos no software.
 
 ## Protección de datos de carácter persoal.
+
+## Mellora continua
+
+* Melloras propostas
+* Mecanismos para avaliar as actividades do proxecto ou recabar a opinión de usuarios ou clientes 
 
 ## Manual de usuario
 
