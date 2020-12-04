@@ -24,10 +24,9 @@ posible comercializalo? Como?
 * Qué tecnoloxías tes pensado empregar para levalo a cabo?
 O pensado de forma inicial é utilizar unha Raspberry Pi 3 B+, ademáis de unha ou varias cámaras IP, a cámara de Raspberry, webcams antiguas, etc. 
 En canto ó software sería:
-
-- SO: Raspbian.
-- Software para o sistema de videovixilancia: Motion, MotionEyeOS ou Shinobi (por determinar).
-- Sistema de monitorización da rede: Icinga2.
-- Sistema de almacenamento na nube: Owncloud.
-- Alertas ó usuario por correo, SMS...
-- Securización de rede.
+    -  SO: Raspbian.
+    - Software para o sistema de videovixilancia: Motion, MotionEyeOS ou Shinobi (por determinar).
+    - Sistema de monitorización da rede: Icinga2.
+    - Sistema de almacenamento na nube: Owncloud.
+    - Alertas ó usuario por correo, SMS...
+    - Securización de rede.
