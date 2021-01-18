@@ -46,4 +46,15 @@
 
 ## Links
 
-> *TODO*: Enlaces externos y descipciones de estos enlaces que creas conveniente indicar aquí. Generalmente ya van a estar integrados con tu documentación, pero si requieres realizar un listado de ellos, este es el lugar.
+#### Raspberry Pi
+- [Páxina de FAQs de Raspberry Pi](https://www.raspberrypi.org/documentation/faqs/#commercial-integrate)
+#### Estadísticas e leis
+- [Portal Estadístico de Criminalidade (SEC)](https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/portal/balances.html)
+- [Documento consolidado BOE-A-2014-3649](https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649&p=20140405&tn=1)
+- [Documento consolidado BOE-A-2018-16673](https://www.boe.es/boe_gallego/dias/2018/12/06/pdfs/BOE-A-2018-16673-G.pdf)
+- [Guía sobre el uso de videocámaras para seguridad y otras finalidades](https://www.aepd.es/sites/default/files/2019-09/guia-videovigilancia.pdf)
+#### Documentación
+- [Documentación oficial de Motion](https://motion-project.github.io/motion_guide.html)
+- [Documentación oficial de MotionEye](https://github.com/ccrisan/motioneye/wiki)
+- [Documentación oficial Icinga2](https://icinga.com/docs/icinga-2/latest/doc/01-about/)
+- [Documentación oficial Icinga2 Web](https://icinga.com/docs/icinga-web-2/latest/)
