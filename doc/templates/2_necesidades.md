@@ -29,7 +29,31 @@ Antes de comezar a plantexarse a realización deste proxecto ou dunha idea de ne
 Existen dúas leis que temos que tomar en conta, a primeira **Lei orgánica 3/2018, do 5 de decembro, de protección de datos persoais e garantía dos dereitos dixitais**, e a segunda, a **Lei 5/2014, do 4 de abril, de Seguridade Privada**.
 
 Neste caso, xa deixamos claro que o obxectivo deste proxecto non era facer un negocio, senón facer unha solución co conxunto de ferramentas e software libre dispoñibles na rede para que, todo o mundo que teña o coñecemento necesario, ou simplemente seguindo un manual, poida desplegar o sistema no seu fogar. 
-De todas maneiras, hai que ter en conta que se desexásemos montar un negocio con esta idea un dos principais problemas é que o sistema está nunha fase de desenrolo moi temperán, se queremos que o noso sistema triunfe no mercado e de confianza, debe ter estabilidade, unha boa interface e moitas funcionalidades. Ademáis, se queremos conectar o sistema a unha central de alarmas, debemos rexistrarnos como empresa de seguridade privada (según a ley de Seguridade Privada, antes mencionada), polo que habería que asumir costes adicionais para pagar as taxas. Toda a información atópase na [páxina web do Servizo ó Cidadán](http://www.interior.gob.es/web/servicios-al-ciudadano/seguridad/empresas-de-seguridad/autorizacion-e-inscripcion).
+De todas maneiras, hai que ter en conta que se desexásemos montar un negocio con esta idea un dos principais problemas é que o sistema está nunha fase de desenrolo moi temperán, se queremos que o noso sistema triunfe no mercado, debemos plantar cara á competencia, que neste sector é asidua, polo que pare que fose algo viable, debemos transmitir confianza ó usuario final. O sistema debe ter estabilidade, unha boa interface e varias funcionalidades útiles.
+
+Unha boa infraestructura central, se queremos conectar os equipos a unha central de alarmas, debemos rexistrarnos como empresa de seguridade privada (según a ley de Seguridade Privada, antes mencionada), polo que habería que asumir costes adicionais para pagar as taxas entre outras moitas cousas. 
+
+
+
+### Ley de Seguridade Privada
+
+Como ben indica o preámbulo desta lei, nos últimos anos producíronse moitos avances na consideración cidadá sobre a seguridade e o no sector privado. Esta lei foi actualizada no ano 2014, abarcando todo o sector existente en España na actualidade, e preparandoo para o futuro.
+Con esta nova normativa, preténdese regular a realización e prestación de servizos de seguridade privada por persoas privadas, físicas ou xurídicas para a protección de persoas e bens. Asi coma, definición legal de termos que estaban definidos de forma imprecisa ou indeterminada.
+
+
+#### Servicios e actividades compatibles
+
+Según a lei, as empresas de seguridad privada só poden prestar os servizos que están recollidos na propia lei, os que a nós nos abranguen con relación á videovixilancia son os seguintes, citados de maneira textual:
+
+> 1. A vixilancia e protección de bens, establecementos, lugares e eventos, tanto públicos coma privados, así como persoas que puideran atoparse nos mesmos.
+
+> 2. A instalación e mantemento de aparatos, equipos, dispositivos e sistemas de seguridade conectados a centrales receptoras de alarmas ou centros de control ou videovixilancia.
+
+> 3. A explotación de centrais para a conexión, recepción, verificación e, no seu caso, resposta e transmisión das señais de alarma, así como a monitorización de calesquera señais de dispositivos auxiliares para a seguridade de persoas, bens mobles ou inmobles ou de cumprimento de medidas impostas, e a comunicación ás Forzas e Corpos de Seguridade competentes nestes casos.
+
+
+
+Toda a información atópase na [páxina web do Servizo ó Cidadán](http://www.interior.gob.es/web/servicios-al-ciudadano/seguridad/empresas-de-seguridad/autorizacion-e-inscripcion).
 
 # Webgrafía
 
