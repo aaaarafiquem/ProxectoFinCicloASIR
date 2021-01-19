@@ -1,4 +1,4 @@
-# Proyecto fin de ciclo
+# Sistema de videovixilancia con Raspberry Pi
 
 ## Descripción
 
