@@ -1,16 +1,12 @@
 # Proyecto fin de ciclo
 
-> *TODO*: Este documento será la "*página de aterrizaje*" de tu proyecto. Será lo primero que vean los que se interesen por él. Cúida su redacción con todo tu mimo. Elimina posteriormente todas las lineas "*TODO*" cuando creas finalizada su redacción.
-> Puedes acompañar a la redacción de este fichero con imágenes o gifs, pero no abuses de ellos.
-
 ## Descripción
 
-> *TODO*: Realiza una breve descripción del proyecto. No menos de 100 palabras y no más de 300. Resalta lo fundamental **con tus propias palabras**. Utiliza un lenguaje correcto, **pero natural**, que lo entienda todo el mundo, incluso y en especial, las personas que no tengan un conocimiento técnico avanzado. Puede ser un estracto o resumen de apartados que ya contemples en otros ficheros.
+O proxecto consiste nunha alternativa para implantar nun sistema Linux que fose moito máis configurable que un NVR estándar para ter a nosa vivenda vixiada cando non estamos. A idea sería facer unha infraestructura totalmente configurable e o máis accesible posible para establecer nun ámbito doméstico, o hardware elixido é unha Raspberry Pi, que é compacta, asequible e moi versátil para a nosa tarefa. Podemos utilizar todo tipo de cámaras, ben sexan: cámaras USB, cámaras oficiales de Raspberry, cámaras IP, etc.
+Podería contemplarse a posibilidade de engadir tamén sensores de movemento independentes e algunha pequena alarma.
+Ademáis, contaría cun sistema de alertas que chegaría a algún medio que o usuario posúa, ben sexa a través de SMS, un bot de Telegram, correo electrónico ou outro medio. Debemos contar con un sistema para almacenar as imaxes no caso de que se detecte movemento, contando ca nosa propia nube privada no propio dispositivo. 
+Todos estes servizos deben estar correctamente monitorizados no caso de que fallen, polo que tamén se desplegará un sistema de monitorización de servizos en rede, amais de securizar a rede o mellor posible para que non entren intrusos. 
 
-## Instalación / Puesta en marcha
-
-> *TODO*: En este apartado describe con toda precisión y a poder ser con la mayor simplicidad/facilidad posible, cómo poner en marcha tu aplicación para probarla (en un ambiente local). Se valorará muy positivamente que este proceso sea lo más fácil posible, con una simple instrucción (p. e. un script de instalación).
-> Si tu proyecto es documental, realiza una especificación de cómo va a ser este proceso. En otras palabras, realiza este apartado independientemente que no haya implementación.
 
 ## Uso
 
@@ -19,17 +15,19 @@
 
 ## Sobre el autor
 
-> *TODO*: Realiza una breve descripción de quien eres (perfil profesional), tus puntos fuertes, o tecnologías que más dominas... y porqué te has decantado por este proyecto. **No más de 200 palabras**. Indica la forma fiable de contactar contigo en el presente y en el futuro.
+Chámome Rebeca Ledo Barreiro, son Técnico en Sistemas Microinformáticos e Redes (SMR), neste intre estudo Administración de Sistemas Informáticos en Rede do cal, estou a facer as FCT e este mesmo proxecto. De maneira simultánea tamén estudo Desenrolo de Aplicacións Web. 
+
+Este proxecto é unha oportunidade para aprender moito e aproveitar todas as ferramentas e software libre das que dispoñemos na rede.
+
+Sempre fun unha persoa moi curiosa por o mundo da informática, polo que, no meu tempo libre, intento buscar cousas cas que experimentar e das que aprender, tamén por iso, me matriculei en DAW, xa que a programación abre moitas portas para crear moitas cousas de proveito.
 
 ## Licencia
 
-> *TODO*: Es requisito INDISPENSABLE el licenciar explícitamente el proyecto software. Se recomienda licenciar con *GNU Free Documentation License Version 1.3*. Crear un fichero `LICENSE` en la raiz del repo, con tu fichero de licencia. Recuerda que si empleas una licencia de software libre estás autorizando la derivación de tu obra bajo la misma licencia que elijas, pudiendo dar continuidad, p. e. otro alumno, para continuar tu proyecto en otro curso.
-> Si tu proyecto es documental, recomendamos los términos de *GNU Free Documentation License Version 1.3*, crea igualmente el fichero `LICENSE`. Será especialmente valorado en este caso, la claridad de la especificación para que el proyecto pueda ser ejecutado partiendo de lo proyectado.
+Autorizase a copia, distribución e modificación deste documento baixo os termos da licenza de documentación libre GNU, versión 1.3 ou calquera outra que posteriormente publique a Fundación do Software Libre (Free Software Fundation); sen seccións invariantes (Unvariant Sections), textos de portada (Front-Cover Texts), nin textos de contraportada (Back-Cover Texts).
+
 
 
 ## Índice
-
-> *TODO*: Simplemente indexa ordenadamente todo tu proyecto.
 
 1. Anteproyecto
     * 1.1. [Idea](doc/templates/1_idea.md)
@@ -42,7 +40,10 @@
 
 ## Guía de contribución
 
-> *TODO*: Tratándose de un proyecto de software libre, es muy importante que expongas cómo se puede contribuir con tu proyecto. Algunos ejemplos de esto son realizar nuevas funcionalidades, corrección y/u optimización del código, realización de tests automatizados, nuevas interfaces de integración, desarrollo de plugins, etc. etc. Sé lo más conciso que puedas.
+As ferramentas e software utilizado neste proxecto son na súa maioría software libre e de código aberto. A mellor forma de contribuír é mellorando calquera destas ferramentas ademáis de contribuír con melloras, novas funcionalidades e ideas para a optimización do conxunto do sistema. 
+
+Por exemplo, podería intentar crease un frontend propio en lugar de utilizar un dunha terceira persoa, entre outras moitas cousas.
+
 
 ## Links
 
@@ -58,3 +59,7 @@
 - [Documentación oficial de MotionEye](https://github.com/ccrisan/motioneye/wiki)
 - [Documentación oficial Icinga2](https://icinga.com/docs/icinga-2/latest/doc/01-about/)
 - [Documentación oficial Icinga2 Web](https://icinga.com/docs/icinga-web-2/latest/)
+
+#### Licenzas
+- [Páxina oficial da Licenza de documentación Libre de GNU](https://www.gnu.org/licenses/fdl-1.3-faq.en.html#top)
+- [Traducción non oficial da Licenza de documentación Libre de GNU (Traducida por Víctor Manuel Huezo Lopez)](https://fdl-es.gitlab.io)
