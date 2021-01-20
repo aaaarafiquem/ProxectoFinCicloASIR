@@ -55,6 +55,37 @@ Según a lei, as empresas de seguridad privada só poden prestar os servizos que
 
 Toda a información atópase na [páxina web do Servizo ó Cidadán](http://www.interior.gob.es/web/servicios-al-ciudadano/seguridad/empresas-de-seguridad/autorizacion-e-inscripcion).
 
+
+## CNAE
+
+O CNAE é a Clasificación Nacional de Actividades Económicas, este asigna un código a cada actividade económica das que se poden realizar. Este código está composto normalmente, de entre 4/5 dígitos e utilízase en moitos formularios e impresos, tanto oficiales como a nivel de empresa.
+
+Consultado este listado, observamos que pertencemos ó **GRUPO N**, que define as **Actividades administrativas e servizos auxiliares**. Dentro deste grupo, pertenece ó subgrupo **80, Actividades de Seguridad e Investigación**.
+A súa vez, dentro deste grupo podemos pertenecer ó subgrupo **801, Actividades de seguridade privada**.
+
+
+## Mercado
+
+
+### Perfil de cliente 
+
+Co paso dos anos, a preocupación pola seguridade no fogar foi en aumento coincidindo co incremento da crisis económica no noso país.
+
+Cada vez son máis os propietarios de segundas vivendas que queren manter o seu fogar salvagardado de visitas indesexadas. Sen embargo, a xente considera que é un desembolso cuantioso, polo que intenta na medida do posible, evitalo.
+
+O sector da videovixilancia encóntrase bastante saturado. Hai moitas empresas de videovixilancia, tanto a nivel nacional, como autonómico ou incluso provincial. A pesar disto, só un par de empresas top veñen á mente de toda persoa. Isto non significa que sexan as que teñen os prezos máis competitivos ou den o mellor servizo.
+
+Por outra banda, o mercado dos produtos de videovixilancia tamén está gañando terreo. Cos coñecementos necesarios, ou un poco de paciencia para buscar información na rede, calquera podería implantar un sistema básico que cubra gran parte das súas necesidades, distribúese unha gran cantidade de produtos “low cost”, dispoñibles na maioría de empresas de venta online a gran escala, como por exemplo, o xigante Amazon ou la española Pccomponentes.
+
+Polo tanto, o perfil dos nosos clientes é:
+- Xente de mediana idade e incluso, tercera idade.
+- Propietarios dalgún tipo de inmoble ó que non acuden con frecuencia.
+
+
+
+
+
+
 # Webgrafía
 
 Xustificación de necesidades, viabilidade:
