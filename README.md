@@ -64,3 +64,6 @@ Por exemplo, podería intentar crease un frontend propio en lugar de utilizar un
 #### Licenzas
 - [Páxina oficial da Licenza de documentación Libre de GNU](https://www.gnu.org/licenses/fdl-1.3-faq.en.html#top)
 - [Traducción non oficial da Licenza de documentación Libre de GNU (Traducida por Víctor Manuel Huezo Lopez)](https://fdl-es.gitlab.io)
+
+#### Varios
+- [Regra dos 3 clics](https://es.wikipedia.org/wiki/Regla_de_los_tres_clics)
