@@ -81,9 +81,105 @@ Polo tanto, o perfil dos nosos clientes é:
 - Xente de mediana idade e incluso, tercera idade.
 - Propietarios dalgún tipo de inmoble ó que non acuden con frecuencia.
 
+### Tamaño del mercado y características de los clientes.
+
+### Evolución y previsión del mercado.
+
+
+## Análisis DAFO
+
+**DEBILIDADES**
+
+- O proxecto está nunha fase de desenrolo moi temperán, por isto, é posible que non se dispoña dende o comenzo todo o abanico de opcións que ofrezcan a competencia.
+
+- Ó ser un servizo novo no mercado conseguir uns beneficios óptimos será complicado ó inicio, xa que tardará en darse a coñecer (e igual es difícil lograr que sea reconocido).
+
+- A venta deste tipo de produtos será máis complicada dado que o comprador non experimenta a experiencia de compra, é dicir, está a adquirir un servizo informático, non é tanxible, a pesar de que compran o hardware físico, non significa nada xa que non entenden o que está a pasar por debaixo.
+
+- Este sistema de seguridade é unha nova incorporación no mercado, por isto, tardará máis en darse a coñecer.
+
+- Ós inicios da empresa, esta conta cunha limitación xeográfica enfocada á provincia.
+
+
+**AMEAZAS**
+
+- Existencia dunha competencia moi afianzada no mercado, sendo soamente un par de empresas aquelas que teñen cabida na venta do produto.
+
+- Atender as numerosas normativas de seguridade referentes á protección de datos, e lai de seguridade privada, no caso de optar por esa vía.
+
+- En Galicia existe un subdesenvolvemento tecnolóxico nas zonas menos poboadas e máis abandonadas da comunidade.
+
+
+**FORTALEZAS**
+
+- A persoa interesada na instalación non está obrigada a comprar os productos directamente da nosa empresa, é dicir, pode comprar as cámaras ou outros aparellos a terceiros e nós encargaremonos de asesoralo e da instalación no caso de ser compatibles e/ou homologados.
+
+- Atención máis achegada e personalizada dado que é unha empresa máis pequena que as da competencia.
+
+- Posibilidade de dar de baixa os servizos no momento desexado, no existe ningún tipo de permanencia.
+
+- Os productos instalados seguen funcionando de decidir dar de baixa a mensualidade. O consumidor poderá seguir operando coas súas cámaras, o que non estará dispoñible serán os servicios relacionados con terceiros como a conexión à central de alarmas ou aviso á policía.
+
+
+**OPORTUNIDADES**
+
+- Oportunidade de explotar o feito de que o noso sistema continúa a ser funcional unha vez a mensualidade se da de baixa (nn caso de que se haxa contratado esa opción en primeiro lugar). Isto é algo que non contemplan moitas das empresas da competencia, cuxos productos pasan a no ser moito máis que un pisapapeis que detecta só traballa a modo local.
+
+- Oportunidade de ofrecer kits/produtos a menor precio que a competencia.
+
+- Ó contrario que o resto de empresas, o acceso á información será rápido e sinxelo e sen tener que aportar una gran cantidade de datos personais. 
+
+- Ó ser Galicia un territorio no que existen gran cantidade de aldeas, unha importante cantidade de persoas ten segundas vivendas que se encontran deshabitadas durante gran parte do año. Isto fainas máis vulnerables á hora de roubos ou ocupacións.
+
+- Galicia como territorio no que a poboación se encontra envellecida. Dado que nuestro público obxectivo é, sobre todo, xente dunha idade avanzada, esta característica do territorio gallego permitiranos enfrentarnos a unha maior cantidade de posibles clientes.
+
+- Oportunidade de ampliar a oferta de produtos no futuro, coa creación de produtos propios. Por ejemplo, utilizar un kit RFID RC522 (módulo e tarxeta-chaveiro), para crear así, un sistema que desactive a detección de movemento e o disparo da alarma de forma sinxela cando chegues ó teu domicilio.
 
 
 
+
+## Análisis CAME
+
+**CORRIXIR**
+- Para compensar a escaseza de opcións en comparación coa competencia, compensaremos esto con prezos moito máis competitivos.
+
+- No comezo, enfrentarémonos a gastos e posibles pérdidas co colchón económico que persoalmente teremos dispoñible para este mismo fin. 
+
+- Para apelar ós sentidos no momento da compra, poderse sopesar comercializar o servizo de seguridade cun soporte físico como puede ser el de los paquetes de experiencias. 
+
+- Ademais de promocionar a empresa para que se dé a coñecer no mercado na maior brevedade, ofrecer vantaxes que poidan compensar a falta de experiencia.
+
+- Unha vez a nosa empresa avanza poderíase considerar la oportunidad de expandila xeográficamente
+ 
+**AFRONTAR**
+ 
+- Traballar na promoción para afianzar a imaxe da nosa empresa na mente dos consumidores.
+
+- Estas normativas, como xa se desarrollaron no correspondente apartado, no configuran ningún impedimento a la hora de ofertar nuestro servicio. Simplemente debemos tener extremo coidado á hora de telas en conta.
+- No caso de problemas tecnolóxicos por culpa da zona, asesorarase de maneira sincera e fiable sobre os inconvintes que pode ocasionar la falta de acondicionamiento xeográfico. Ademais, de que non fose posible decidir non realizar instalacións relacionadas con internet, isto non impedirá que o producto funcione a nivel local. Aida que, as alertas ó móbil, por exemplo, non poidan ter lugar, tendo que así, ter que ir revisar de forma presencial no sistema se se produciu algunha alarma.
+
+
+**MANTER**
+- Seguir ofreciendo el servicio flexible de instalación en el futuro, tanto a la hora de poder ofrecer los productos sin la instalación, como ofreciendo la instalación siendo los productos comprados a terceros.
+
+- Según vaya creciendo la empresa se invertirá en el cuidado y la atención personalizada a los clientes para no reducir la calidad en este aspecto.
+
+- Continuar ofreciendo un servicio en el que se pueda dar de baja las mensualidades en el momento deseado y de una forma sencilla.
+
+- Continuar ofreciendo productos funcionales incluso cuando los consumidores deseen dejar de pagar mensualidades.
+
+
+
+**EXPLOTAR**
+- Mediante promoción, destacar este aspecto que nos diferencia en gran medida do resto de empresas
+
+- Facer hincapé, ademais de no mencionado nol anterior punto, nos prezos que ofrecemos.
+
+- Explotar esto mediante un diseño de  páxina web que permita ó usuario acceder a este tipo de información da manera más sinxela e transparente posible posible (por exemplo respetando la regra dos 3 clicks).
+- Á hora de asegurar unha segunda vivenda, contemplar la posibilidade de facer promocións ou prezos á hora de asegurar esta.
+
+- Chegaremos a estes clientes mediante sistemas de promoción acordes ós que máis consuman, como pode ser a televisión ou a radio.
+- No momento no que sexa viable contratar máis persoal para o desenrolo deste tipo de produtos, traballeremos todo o posible por sacar ese aspecto adiante.
 
 
 # Webgrafía
