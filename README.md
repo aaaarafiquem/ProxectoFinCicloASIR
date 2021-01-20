@@ -54,6 +54,7 @@ Por exemplo, podería intentar crease un frontend propio en lugar de utilizar un
 - [Documento consolidado BOE-A-2014-3649](https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649&p=20140405&tn=1)
 - [Documento consolidado BOE-A-2018-16673](https://www.boe.es/boe_gallego/dias/2018/12/06/pdfs/BOE-A-2018-16673-G.pdf)
 - [Guía sobre el uso de videocámaras para seguridad y otras finalidades](https://www.aepd.es/sites/default/files/2019-09/guia-videovigilancia.pdf)
+- [Clasificación Nacional de Actividades Económicas](https://www.cnae.com.es/index.php)
 #### Documentación
 - [Documentación oficial de Motion](https://motion-project.github.io/motion_guide.html)
 - [Documentación oficial de MotionEye](https://github.com/ccrisan/motioneye/wiki)
