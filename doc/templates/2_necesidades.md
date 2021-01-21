@@ -23,37 +23,39 @@ Vemos que, no segundo nivel temos a **Seguridade**, o tema principal que xira ar
 
 Na actualidade, cos coñecementos adquiridos durante estes estudos, decidín desenvolver un sistema para o entorno doméstico que todos se poidan permitir e que puidese mellorar co tempo, según avanzasen os meus coñecementos. 
 
-## Marco legal
 
-Antes de comezar a plantexarse a realización deste proxecto ou dunha idea de negocio, debemos prestar especial atención ó marco legal que nos abrangue.
-Existen dúas leis que temos que tomar en conta, a primeira **Lei orgánica 3/2018, do 5 de decembro, de protección de datos persoais e garantía dos dereitos dixitais**, e a segunda, a **Lei 5/2014, do 4 de abril, de Seguridade Privada**.
+## Sector económico da empresa
 
-Neste caso, xa deixamos claro que o obxectivo deste proxecto non era facer un negocio, senón facer unha solución co conxunto de ferramentas e software libre dispoñibles na rede para que, todo o mundo que teña o coñecemento necesario, ou simplemente seguindo un manual, poida desplegar o sistema no seu fogar. 
-De todas maneiras, hai que ter en conta que se desexásemos montar un negocio con esta idea un dos principais problemas é que o sistema está nunha fase de desenrolo moi temperán, se queremos que o noso sistema triunfe no mercado, debemos plantar cara á competencia, que neste sector é asidua, polo que pare que fose algo viable, debemos transmitir confianza ó usuario final. O sistema debe ter estabilidade, unha boa interface e varias funcionalidades útiles.
+O sector económico vinculado ca actividade da empresa sería o sector terciario, de servizos. Todos os sectores son un conxunto de actividades en común ou similares, que satisfacen as necesidades e os desexos da sociedade e diferencianse entre eles. 
 
-Unha boa infraestructura central, se queremos conectar os equipos a unha central de alarmas, debemos rexistrarnos como empresa de seguridade privada (según a ley de Seguridade Privada, antes mencionada), polo que habería que asumir costes adicionais para pagar as taxas entre outras moitas cousas. 
+Considero que pertence ó sector terciario porque non producimos bens materiais de forma directa, senón que ofrecemos un servizo non esencial que en principio, non é esencial para a vida cotián.
 
+Con este servizo, o que buscamos é satisfacer a necesidade de sentirse seguro ou, ter seguridade de que ninguén alleo vai entrar no teu fogar, a un bo prezo, accesible para todo o mundo que o desexe. 
 
-
-### Ley de Seguridade Privada
-
-Como ben indica o preámbulo desta lei, nos últimos anos producíronse moitos avances na consideración cidadá sobre a seguridade e o no sector privado. Esta lei foi actualizada no ano 2014, abarcando todo o sector existente en España na actualidade, e preparandoo para o futuro.
-Con esta nova normativa, preténdese regular a realización e prestación de servizos de seguridade privada por persoas privadas, físicas ou xurídicas para a protección de persoas e bens. Asi coma, definición legal de termos que estaban definidos de forma imprecisa ou indeterminada.
+Temos que pensar que, non podemos facer un negocio totalmente online, porque tamén existen desvantaxes no sector, como por exemplo, persoas de xeneracións que non están acostumadas á compra ou consulta online. É probable que non poidamos dirixirnos a un público máís envellecido de forma directa pola barreira que existe dado as novas tecnoloxías. Ainda así, daremonos a coñecer con estrategias publicitarias dirixidas a esa parte da poboación, ademais de ofrecer asistencia e asesoramento de forma presencial no caso de requerilo.
 
 
-#### Servicios e actividades compatibles
+## CNAE
 
-Según a lei, as empresas de seguridad privada só poden prestar os servizos que están recollidos na propia lei, os que a nós nos abranguen con relación á videovixilancia son os seguintes, citados de maneira textual:
+O CNAE é a Clasificación Nacional de Actividades Económicas, este asigna un código a cada actividade económica das que se poden realizar. Este código está composto normalmente, de entre 4/5 dígitos e utilízase en moitos formularios e impresos, tanto oficiales como a nivel de empresa.
 
-> 1. A vixilancia e protección de bens, establecementos, lugares e eventos, tanto públicos coma privados, así como persoas que puideran atoparse nos mesmos.
-
-> 2. A instalación e mantemento de aparatos, equipos, dispositivos e sistemas de seguridade conectados a centrales receptoras de alarmas ou centros de control ou videovixilancia.
-
-> 3. A explotación de centrais para a conexión, recepción, verificación e, no seu caso, resposta e transmisión das señais de alarma, así como a monitorización de calesquera señais de dispositivos auxiliares para a seguridade de persoas, bens mobles ou inmobles ou de cumprimento de medidas impostas, e a comunicación ás Forzas e Corpos de Seguridade competentes nestes casos.
+Consultado este listado, observamos que pertencemos ó **GRUPO N**, que define as **Actividades administrativas e servizos auxiliares**. Dentro deste grupo, pertenece ó subgrupo **80, Actividades de Seguridad e Investigación**.
+A súa vez, dentro deste grupo podemos pertenecer ó subgrupo **801, Actividades de seguridade privada**.
 
 
+## Forma xurídica
 
-Toda a información atópase na [páxina web do Servizo ó Cidadán](http://www.interior.gob.es/web/servicios-al-ciudadano/seguridad/empresas-de-seguridad/autorizacion-e-inscripcion).
+Tras un estudo minucioso de todas as opcións dispoñibles, debemos determinar que forma
+xurídica é a máis apropiada para a nosa actividade comercial.
+
+Para elaborar a idea de negocio, optei por desenvolvelo baixo a creación dunha sociedade de responsabilidade limitada.
+
+Esta forma legal dános a oportunidade de ampliar o número de socios no futuro a pesar de que nun principio só existe unha soa persoa.
+
+Algunhas vantaxes que ofrece esta forma xurídica poden ser: 
+- Liberdade de denominación social 
+- Posibilidade de aportar o capital necesario para a apertura en bens
+- Cartos e distribución de responsabilidades de xeito equitativo
 
 
 
@@ -73,7 +75,7 @@ Polo tanto, o perfil dos nosos clientes é:
 - Xente de mediana idade e incluso, tercera idade.
 - Propietarios dalgún tipo de inmoble ó que non acuden con frecuencia.
 
-### Tamaño del mercado 
+### Tamaño do mercado 
 
 Quen será unha ameaza para o noso crecemento? O máis racional é pensar que o resto das empresas de seguridade existentes, que efectivamente, son a nosa competencia directa, sobretodo, as máis grandes e coñecidas. Sen embargo, non só empresas de seguridade, senon outro tipo de empresas que fan competencia indirecta. Por exemplo, as empresas de telefonía ofrecen cos paquetes dos seus propios servizos con cuotas mensuais dependendo da cantidade de dispositivos. Ademais, produtos independentes, fáciles de configurar, cos que moita xente pode ter todas as funcionalidades que necesita por poucos cartos, sen requerir de ningunha empresa, estes vendense normalmente, en grandes superficies comerciales, ben sexan online ou grandes almacéns.
 
@@ -90,6 +92,121 @@ Podemos en unha soa centralita ter todo o que poidamos imaxinar, detectores de m
 Que nos deparará o futuro? Non o podemos saber a ciencia certa, a tecnoloxía seguirá a evolucionar e evolucionar. Nos últimos anos, creouse a tecnoloxía de sistema de recoñecemento facial. Coa situación actual, o sector tamén se reinventa, unha das grandes empresas, Prosegur, primera compañía de seguridade de España e a cuarta no mundo, intenta facerlle a vida máis fácil ós vixiantes e corpos de seguridade. Ofrece dende fai pouco tempo, cámaras termográficas que miden a temperatura ó entrar a un edificio, tecnoloxía que detecta sea se lleva mascarilla ou incluso lectores de documentos identificativos.
 
 En resumo, e tendo todo o anterior en conta, prevese que o sector medrará a un ritmo enorme debido a que cada vez máis xente ten conciencia sobre a videovixilancia, é máis accesible para os bolsillos, con mellores tecnoloxías e hai unha necesidade cada vez maior de querer manter os seus inmobles vixiados. O máis probable é que nos enfrentemos nos anos futuros a problemas co almacenamento na nube, xa que é a preferencia por defecto das empresas e de moitas persoas no mundo. Haberá que mellorar os protocolos existentes, o ancho de banda mundial, mellorar infraestructuras...
+
+## Marco legal
+
+Antes de comezar a plantexarse a realización deste proxecto ou dunha idea de negocio, debemos prestar especial atención ó marco legal que nos abrangue.
+Existen dúas leis que temos que tomar en conta, a primeira **Lei orgánica 3/2018, do 5 de decembro, de protección de datos persoais e garantía dos dereitos dixitais**, e a segunda, a **Lei 5/2014, do 4 de abril, de Seguridade Privada**.
+
+Neste caso, xa deixamos claro que o obxectivo deste proxecto non era facer un negocio, senón facer unha solución co conxunto de ferramentas e software libre dispoñibles na rede para que, todo o mundo que teña o coñecemento necesario, ou simplemente seguindo un manual, poida desplegar o sistema no seu fogar. 
+De todas maneiras, hai que ter en conta que se desexásemos montar un negocio con esta idea un dos principais problemas é que o sistema está nunha fase de desenrolo moi temperán, se queremos que o noso sistema triunfe no mercado, debemos plantar cara á competencia, que neste sector é asidua, polo que pare que fose algo viable, debemos transmitir confianza ó usuario final. O sistema debe ter estabilidade, unha boa interface e varias funcionalidades útiles.
+
+Unha boa infraestructura central, se queremos conectar os equipos a unha central de alarmas, debemos rexistrarnos como empresa de seguridade privada (según a ley de Seguridade Privada, antes mencionada), polo que habería que asumir costes adicionais para pagar as taxas entre outras moitas cousas. 
+
+
+
+### Lei de Seguridade Privada
+
+Como ben indica o preámbulo desta lei, nos últimos anos producíronse moitos avances na consideración cidadá sobre a seguridade e o no sector privado. Esta lei foi actualizada no ano 2014, abarcando todo o sector existente en España na actualidade, e preparandoo para o futuro.
+Con esta nova normativa, preténdese regular a realización e prestación de servizos de seguridade privada por persoas privadas, físicas ou xurídicas para a protección de persoas e bens. Asi coma, definición legal de termos que estaban definidos de forma imprecisa ou indeterminada.
+
+
+#### Servicios e actividades compatibles
+
+Según a lei, as empresas de seguridad privada só poden prestar os servizos que están recollidos na propia lei, os que a nós nos abranguen con relación á videovixilancia son os seguintes, citados de maneira textual:
+
+> 1. A vixilancia e protección de bens, establecementos, lugares e eventos, tanto públicos coma privados, así como persoas que puideran atoparse nos mesmos.
+
+> 2. A instalación e mantemento de aparatos, equipos, dispositivos e sistemas de seguridade conectados a centrales receptoras de alarmas ou centros de control ou videovixilancia.
+
+> 3. A explotación de centrais para a conexión, recepción, verificación e, no seu caso, resposta e transmisión das señais de alarma, así como a monitorización de calesquera señais de dispositivos auxiliares para a seguridade de persoas, bens mobles ou inmobles ou de cumprimento de medidas impostas, e a comunicación ás Forzas e Corpos de Seguridade competentes nestes casos.
+
+
+#### Autorización e inscripción
+
+Ademais de facer a creación da empresa, por lei, debemos inscribirnos como empresa de seguridade privada. Para que se efectuar o rexistro, deberase obter autorización administrativa e serán inscritas de oficio no rexistro correspondente.
+
+A autorización administrativa suplirase por unha declaración responsable cando se pretenda dedicar exclusivamente á instalación y mantenimiento de aparatos, equipos, dispositivos y sistemas de seguridade conectados a centrales receptoras de alarmas ou centros de control ou de videovixilancia.
+
+Para presentar a declaración responsable, as empresas de seguridade privada deberán reunir uns requisitos xerais, que serán os seguintes (citados textualmente):
+
+>  1. Estar legalmente constituído e inscrito no rexistro mercantil ou no rexistro público correspondente e ter a finalidade exclusiva de todas ou algunha das actividades de seguridade privada reguladas, excepto a investigación privada en relación con persoas, sucesos ou delitos que só poden ser procesados ​​a petición dunha parte. Non obstante, este obxecto pode incluír os servizos esenciais para o cumprimento das actividades de seguridade autorizadas, así como as actividades compatibles previstas no artigo 6 da Lei 5/2014, do 4 de abril, de seguridade privada.
+
+> 2. Ter la nacionalidade dun Estado membro da Unión Europea ou dun Estado parte no Acordo sobre o Espazo Económico Europeo.
+
+> 3. Dispor dos medios humanos, formativos, financeiros, materiais e técnicos adecuados que, de acordo co principio de proporcionalidade, se determinen regulamentariamente, dependendo da natureza das actividades para as que se solicita autorización ou se presenta a declaración responsable. e as características dos servizos prestados en relación con tales actividades. En particular, cando se presten servizos para os que se require o uso de armas, deben adoptarse medidas para garantir a súa adecuada custodia, uso e funcionamento. Así mesmo, os enxeñeiros e técnicos das empresas de seguridade privada e os operadores de seguridade deberán contar coa correspondente acreditación expedida polo Ministerio do Interior, que se limitará a verificar a boa reputación do solicitante e a falta de antecedentes penais.
+
+> 4. Dispoñer das medidas de seguridade esixidas.
+
+> 5. Suscribir un contrato de seguro de responsabilidade civil ou constituir outras garantías financieiras na cuantía e coas condicións establecidas.
+
+> 6. Constituir o aval ou seguro de caución establecido a disposición das autoridades españolas, para atender exclusivamente as responsabilidades administrativas por infraccións á normativa de seguridad privada que se deriven do funcionamiento da empresa.
+
+> 7. Non ter sido condenado por sentenza firme por delitos de insolvencia punible, contra a Facenda pública, contra a Seguridade Social, contra os dereitos dos traballadores, por inxerencia ilexítima no campo da protección do dereito á honra, a intimidade persoal e familiar ou a propia imaxe, a violación do segredo das comunicacións ou outros dereitos fundamentais, a non ser que se cancelasen os seus antecedentes penais. No caso das persoas xurídicas, este requisito será de aplicación aos administradores e representantes de feito ou xurídicos que, no seu actual cargo ou representación, non poidan estar involucrados na citada situación por accións realizadas en nome ou en beneficio das devanditas persoas xurídicas. .
+
+> 8. Non ter sido condenado por sentenza firme por inxerencia ilexítima no campo da protección do dereito á honra, intimidade persoal e familiar ou propia imaxe, violación do segredo das comunicacións ou outros dereitos fundamentais nos cinco anos anteriores á solicitude . No caso das persoas xurídicas, este requisito será de aplicación aos administradores e representantes de feito ou xurídicos que, no seu actual cargo ou representación, non poidan estar involucrados na citada situación por accións realizadas en nome ou en beneficio das devanditas persoas xurídicas.
+
+Non é necesario mencionar que se en algún momento se incumple algún dos requisitos esixidos finará a autorización e en algúns casos tamén se procede ó peche da empresa, no caso de presentación dunha declaración responsable. Nos dous casos, levará á cancelación de oficio do rexistro da empresa de seguridade no rexistro correspondente.
+
+
+##### Solicitude
+
+Para poder desenvolver as actividades de forma correcta, deberemos solicitar autorización rexistrandonos no Rexistro correspondente, a través dunha instancia dirixida á Unidade Orgánica Central de Seguridade Privada da Dirección Xeral da Policía ou ao organismo correspondente da Comunidade. Autónomo que ten competencias para a protección das persoas e os bens e para o mantemento da orde pública, de conformidade co establecido nos seus Estatutos de autonomía e co disposto na Lei orgánica 2/1986, do 13 de marzo, de forzas e corpos. de Seguridade, cando teñen o seu domicilio social na Comunidade Autónoma e o seu ámbito de actuación limítase a el.
+
+Estas presentaranse no Rexistro da Dirección Xeral da Policía (Unidade Central de Seguridade Orgánica Privada) ou no órgano correspondente da comunidade autónoma competente.
+
+##### Procedemento de autorización
+
+O procedemento de autorización consta de 3 fases. Hai que cumprir uns requisitos xerais e tamén uns requisitos específicos, cada unha das fases requerirá de documentación específica.
+
+El procedimiento de autorización constará de tres fases, que requerirán documentaciones especificas y serán objeto de actuaciones y resoluciones sucesivas, considerándose únicamente habilitadas de forma definitiva, las empresas de seguridad cuando obtengan la autorización de entrada en funcionamiento.  
+
+As fases dos requisitos xerais son as seguintes:
+- Fase inicial, de presentación
+- Segunda fase, de documentación de requisitos previos
+- Tercera fase, de documentación complementaria y resolución
+
+A información concreta da documentación de todas as fases encontrase detallada na mesma lei.
+
+Para os requisitos específicos, existen varias "clases". No noso caso só nos interesan os requisitos específicos para **Instalación e mantemento de aparatos, dispositivos e sistemas de seguridade** e no seu caso tamén **Explotación de centrais de alarma**
+
+**Requisitos específicos, Instalación e mantemento de aparatos, dispositivos e sistemas de seguridade**
+
+Contan tamén, de 3 fases, que se citarán de maneira textual:
+
+> **Fase inicial**. No caso das empresas, demostre que presentou:
+> - Copia auténtica da escritura pública de constitución, na que debe constar que o domicilio social ou establecemento está situado nun Estado membro da Unión Europea ou nun Estado parte do Acordo sobre o Espazo Económico Europeo; o seu obxecto social, que debe ser exclusivo e coincidente cun ou varios dos servizos ou actividades de seguridade privada que prestan e a propiedade do capital social.
+> - Certificado de rexistro ou nota regulamentaria da empresa no correspondente Rexistro Mercantil ou Rexistro Cooperativo, ou documento equivalente no caso de empresas constituídas nalgún dos devanditos Estados. 
+
+> **Segunda fase**.
+> - Lista de persoal dispoñible que incluirá necesariamente o enxeñeiro técnico e os instaladores.
+> - Unha zona ou zona restrinxida que, con medios físicos, electrónicos ou informatizados, garante a custodia da información que manexan e da que serán responsables.
+
+> **Terceira fase**.
+> - Ter unha garantía de 120.202,42 euros, para o nivel estatal, e 30.050,61 euros, máis 6.010,12 euros por provincia, para a zona autónoma.
+> - Ter un contrato de seguro de responsabilidade civil, aval ou outra garantía financeira cunha entidade debidamente autorizada cun importe mínimo de 300.506,05 euros por reclamación e ano.
+
+**Requisitos específicos, Funcionamento De Centrais DE Alarma**
+
+> **Fase inicial.** No caso das empresas, demostre que presentou:
+> - Copia auténtica da escritura pública de constitución, na que debe constar que o domicilio social ou establecemento está situado nun Estado membro da Unión Europea ou nun Estado parte do Acordo sobre o Espazo Económico Europeo; o seu obxecto social, que debe ser exclusivo e coincidente cun ou varios dos servizos ou actividades de seguridade privada que prestan e a propiedade do capital social.
+> - Certificado de rexistro ou nota regulamentaria da empresa no correspondente Rexistro Mercantil ou Rexistro Cooperativo, ou documento equivalente no caso de empresas constituídas nalgún dos devanditos Estados.
+> **Segunda etapa**
+> -Elementos, equipos ou sistemas capaces de recibir e verificar os sinais de alarma e a súa transmisión ás forzas e corpos de seguridade.
+> -Locais cuxos requisitos e características do sistema de seguridade son os establecidos no artigo 12 da Orde INT / 314/2011, do 1 de febreiro.
+> -Un sistema de alimentación ininterrompida que garante durante polo menos vinte e catro horas o funcionamento da central en caso de corte de enerxía.
+
+> **Terceira fase**
+> - Ter constituída unha garantía de 120.202,42 euros.
+> - Ter un contrato de seguro de responsabilidade civil, aval ou outra garantía financeira cunha entidade debidamente autorizada cun importe mínimo de 300.506,05 euros.
+
+Toda a información atópase na [páxina web do Servizo ó Cidadán](http://www.interior.gob.es/web/servicios-al-ciudadano/seguridad/empresas-de-seguridad/autorizacion-e-inscripcion) dunha maneira máis amigable, incluidas infraccións, sancións e taxas.
+
+### Lei de protección de datos persoais e garantía dos dereitos dixitais
+
+Esta lei revisada o 5 de decembro do 2018, é a lei orgánica de protección de datos persoais e garantia dos dereitos dixitais. A nova normativa encárgase de trasladar ó sistema xurídico español o Regulamento (UE) 2016/679 do Parlamento Europeo e do Consello, do 27 de abril de 2016, máis coñecido como Regulamento xeral de protección de datos (Regulamento xeral de protección de datos), así como completar as súas disposicións.
+
+Regula a protección de datos baseada na premisa de que todos os datos persoais dos usuarios deben estar protexidos polos lexisladores europeos. Sen embargo, abordaremos máis en profundidade este tema noutro punto máis adiante. Xa que é conta con un apartado moito máis técnico que a anterior.
 
 
 ## Análisis DAFO
@@ -112,7 +229,7 @@ A análisis DAFO ou FODA, é unha metodoloxía de estudo da situación dunha emp
 
 - A venta deste tipo de produtos será máis complicada dado que o comprador non experimenta a experiencia de compra, é dicir, está a adquirir un servizo informático, non é tanxible, a pesar de que compran o hardware físico, non significa nada xa que non entenden o que está a pasar por debaixo.
 
-- Este sistema de seguridade é unha nova incorporación no mercado, por isto, tardará máis en darse a coñecer.
+- Este sistema de seguridade é unha nova incorporación no mercado, por isto, tardará máis en darse a coñecer, ademais de que haberá que patentalo e deberá estar recoñecido como produto homologado para non infrinxir a lei de Seguridade Privada.
 
 - Ós inicios da empresa, esta conta cunha limitación xeográfica enfocada á provincia.
 
@@ -147,7 +264,7 @@ A análisis DAFO ou FODA, é unha metodoloxía de estudo da situación dunha emp
 
 - Ó ser Galicia un territorio no que existen gran cantidade de aldeas, unha importante cantidade de persoas ten segundas vivendas que se encontran deshabitadas durante gran parte do año. Isto fainas máis vulnerables á hora de roubos ou ocupacións.
 
-- Galicia como territorio no que a poboación se encontra envellecida. Dado que nuestro público obxectivo é, sobre todo, xente dunha idade avanzada, esta característica do territorio gallego permitiranos enfrentarnos a unha maior cantidade de posibles clientes.
+- Galicia como territorio no que a poboación se encontra envellecida. Dado que nuestro público obxectivo é, sobre todo, xente dunha idade media-avanzada, esta característica do territorio gallego permitiranos enfrentarnos a unha maior cantidade de posibles clientes.
 
 - Oportunidade de ampliar a oferta de produtos no futuro, coa creación de produtos propios. Por ejemplo, utilizar un kit RFID RC522 (módulo e tarxeta-chaveiro), para crear así, un sistema que desactive a detección de movemento e o disparo da alarma de forma sinxela cando chegues ó teu domicilio.
 
@@ -199,15 +316,6 @@ A análise CAME é "unha resposta" ó analise DAFO. Cónsiste en convertir as de
 
 - Chegaremos a estes clientes mediante sistemas de promoción acordes ós que máis consuman, como pode ser a televisión ou a radio.
 - No momento no que sexa viable contratar máis persoal para o desenrolo deste tipo de produtos, traballeremos todo o posible por sacar ese aspecto adiante.
-
-
-## CNAE
-
-O CNAE é a Clasificación Nacional de Actividades Económicas, este asigna un código a cada actividade económica das que se poden realizar. Este código está composto normalmente, de entre 4/5 dígitos e utilízase en moitos formularios e impresos, tanto oficiales como a nivel de empresa.
-
-Consultado este listado, observamos que pertencemos ó **GRUPO N**, que define as **Actividades administrativas e servizos auxiliares**. Dentro deste grupo, pertenece ó subgrupo **80, Actividades de Seguridad e Investigación**.
-A súa vez, dentro deste grupo podemos pertenecer ó subgrupo **801, Actividades de seguridade privada**.
-
 
 
 
