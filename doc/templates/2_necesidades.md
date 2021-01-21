@@ -64,8 +64,7 @@ Consultado este listado, observamos que pertencemos ó **GRUPO N**, que define a
 A súa vez, dentro deste grupo podemos pertenecer ó subgrupo **801, Actividades de seguridade privada**.
 
 
-## Mercado
-
+##Posibilidades de comercialización no mercado
 
 ### Perfil de cliente 
 
@@ -81,12 +80,36 @@ Polo tanto, o perfil dos nosos clientes é:
 - Xente de mediana idade e incluso, tercera idade.
 - Propietarios dalgún tipo de inmoble ó que non acuden con frecuencia.
 
-### Tamaño del mercado y características de los clientes.
+### Tamaño del mercado 
 
-### Evolución y previsión del mercado.
+Quen será unha ameaza para o noso crecemento? O máis racional é pensar que o resto das empresas de seguridade existentes, que efectivamente, son a nosa competencia directa, sobretodo, as máis grandes e coñecidas. Sen embargo, non só empresas de seguridade, senon outro tipo de empresas que fan competencia indirecta. Por exemplo, as empresas de telefonía ofrecen cos paquetes dos seus propios servizos con cuotas mensuais dependendo da cantidade de dispositivos. Ademais, produtos independentes, fáciles de configurar, cos que moita xente pode ter todas as funcionalidades que necesita por poucos cartos, sen requerir de ningunha empresa, estes vendense normalmente, en grandes superficies comerciales, ben sexan online ou grandes almacéns.
+
+Con isto en conta, podemos facer unha analise de cales serían as nosas oportunidades no mercado, debilidades, ameazas...
+
+### Evolución e previsión de mercado
+
+O sector leva en constante evolución dende fai anos, pero non só da videovixilancia en concreto, senón o das redes e internet. Grazas a videovixilancia en rede, poden abrirse novos camiños comerciais. Esta é unha alternativa real ós sistemas analóxicos de circuito cerrado de TV (CCTV) convencionais, xa non só por ofrecer ter unha mellor tecnoloxía en canto a calidade de imaxe, control a distancia, grabacións..., tamén hai aparellos a moi bo prezo, o que reduce sensiblemente o coste para o todo o proceso de compra, instalación e mantemento.
+
+Coa evolución de Internet, e as redes, a podemos almacenar as imaxes en NAS, SAN... Existen dispositivos específicamente creados para a videovixilancia, por exemplo, os NVR ou discos duros preparados para ese propósito, que soportan miles e miles de horas funcionando sen parar e teñen moito tempo de vida útil.
+
+Podemos en unha soa centralita ter todo o que poidamos imaxinar, detectores de movemento, de fume, de temperatura e humidade, sensonres de inflarroxos para que a noite non sexa un obstáculo, etc.
+
+Que nos deparará o futuro? Non o podemos saber a ciencia certa, a tecnoloxía seguirá a evolucionar e evolucionar. Nos últimos anos, creouse a tecnoloxía de sistema de recoñecemento facial. Coa situación actual, o sector tamén se reinventa, unha das grandes empresas, Prosegur, primera compañía de seguridade de España e a cuarta no mundo, intenta facerlle a vida máis fácil ós vixiantes e corpos de seguridade. Ofrece dende fai pouco tempo, cámaras termográficas que miden a temperatura ó entrar a un edificio, tecnoloxía que detecta sea se lleva mascarilla ou incluso lectores de documentos identificativos.
+
+En resumo, e tendo todo o anterior en conta, prevese que o sector medrará a un ritmo enorme debido a que cada vez máis xente ten conciencia sobre a videovixilancia, é máis accesible para os bolsillos, con mellores tecnoloxías e hai unha necesidade cada vez maior de querer manter os seus inmobles vixiados. O máis probable é que nos enfrentemos nos anos futuros a problemas co almacenamento na nube, xa que é a preferencia por defecto das empresas e de moitas persoas no mundo. Haberá que mellorar os protocolos existentes, o ancho de banda mundial, mellorar infraestructuras...
 
 
 ## Análisis DAFO
+
+A análisis DAFO ou FODA, é unha metodoloxía de estudo da situación dunha empresa ou proxecto, que analiza:
+- Características internas:
+    - Debilidades
+    - Fortalezas
+- Características externas:
+    - Amenazas
+    - Oportunidades
+
+
 
 **DEBILIDADES**
 
@@ -137,8 +160,11 @@ Polo tanto, o perfil dos nosos clientes é:
 
 
 
-
 ## Análisis CAME
+
+A análise CAME é "unha resposta" ó analise DAFO. Cónsiste en convertir as debilidades en fortalezas, explotar as oportunidades, corrixir as ameazas e afrontar todos os problemas que poidan vir no futuro.
+
+
 
 **CORRIXIR**
 - Para compensar a escaseza de opcións en comparación coa competencia, compensaremos esto con prezos moito máis competitivos.
