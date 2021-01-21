@@ -56,13 +56,6 @@ Según a lei, as empresas de seguridad privada só poden prestar os servizos que
 Toda a información atópase na [páxina web do Servizo ó Cidadán](http://www.interior.gob.es/web/servicios-al-ciudadano/seguridad/empresas-de-seguridad/autorizacion-e-inscripcion).
 
 
-## CNAE
-
-O CNAE é a Clasificación Nacional de Actividades Económicas, este asigna un código a cada actividade económica das que se poden realizar. Este código está composto normalmente, de entre 4/5 dígitos e utilízase en moitos formularios e impresos, tanto oficiales como a nivel de empresa.
-
-Consultado este listado, observamos que pertencemos ó **GRUPO N**, que define as **Actividades administrativas e servizos auxiliares**. Dentro deste grupo, pertenece ó subgrupo **80, Actividades de Seguridad e Investigación**.
-A súa vez, dentro deste grupo podemos pertenecer ó subgrupo **801, Actividades de seguridade privada**.
-
 
 ## Posibilidades de comercialización no mercado
 
@@ -206,6 +199,16 @@ A análise CAME é "unha resposta" ó analise DAFO. Cónsiste en convertir as de
 
 - Chegaremos a estes clientes mediante sistemas de promoción acordes ós que máis consuman, como pode ser a televisión ou a radio.
 - No momento no que sexa viable contratar máis persoal para o desenrolo deste tipo de produtos, traballeremos todo o posible por sacar ese aspecto adiante.
+
+
+## CNAE
+
+O CNAE é a Clasificación Nacional de Actividades Económicas, este asigna un código a cada actividade económica das que se poden realizar. Este código está composto normalmente, de entre 4/5 dígitos e utilízase en moitos formularios e impresos, tanto oficiales como a nivel de empresa.
+
+Consultado este listado, observamos que pertencemos ó **GRUPO N**, que define as **Actividades administrativas e servizos auxiliares**. Dentro deste grupo, pertenece ó subgrupo **80, Actividades de Seguridad e Investigación**.
+A súa vez, dentro deste grupo podemos pertenecer ó subgrupo **801, Actividades de seguridade privada**.
+
+
 
 
 # Webgrafía
