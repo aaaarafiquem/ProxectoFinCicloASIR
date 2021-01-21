@@ -8,11 +8,6 @@ Ademáis, contaría cun sistema de alertas que chegaría a algún medio que o us
 Todos estes servizos deben estar correctamente monitorizados no caso de que fallen, polo que tamén se desplegará un sistema de monitorización de servizos en rede, amais de securizar a rede o mellor posible para que non entren intrusos. 
 
 
-## Uso
-
-> *TODO*: Es este apartado describe brevemente cómo se usará el software que proyectas. Si tiene una interfaz de terminal, describe aquí su sintaxis. Si tiene una interfaz gráfica de usuario, describe aquí **sólo el uso** (a modo de sumario) **de los aspectos más relevantes de su funcionamiento** (máxima brevedad, como si fuese un anuncio reclamo o comercial).
-> Si tu proyecto es documental, realiza una especificación de cómo planteas estas interfaces, con ejemplos incluso o esquemas de diseño. En otras palabras, realiza este apartado independientemente que no haya implementación.
-
 ## Sobre el autor
 
 Chámome Rebeca Ledo Barreiro, son Técnico en Sistemas Microinformáticos e Redes (SMR), neste intre estudo Administración de Sistemas Informáticos en Rede do cal, estou a facer as FCT e este mesmo proxecto. De maneira simultánea tamén estudo Desenrolo de Aplicacións Web. 
