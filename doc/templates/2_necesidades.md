@@ -64,7 +64,7 @@ Consultado este listado, observamos que pertencemos ó **GRUPO N**, que define a
 A súa vez, dentro deste grupo podemos pertenecer ó subgrupo **801, Actividades de seguridade privada**.
 
 
-##Posibilidades de comercialización no mercado
+## Posibilidades de comercialización no mercado
 
 ### Perfil de cliente 
 
