@@ -191,6 +191,7 @@ Contan tamén, de 3 fases, que se citarán de maneira textual:
 > **Fase inicial.** No caso das empresas, demostre que presentou:
 > - Copia auténtica da escritura pública de constitución, na que debe constar que o domicilio social ou establecemento está situado nun Estado membro da Unión Europea ou nun Estado parte do Acordo sobre o Espazo Económico Europeo; o seu obxecto social, que debe ser exclusivo e coincidente cun ou varios dos servizos ou actividades de seguridade privada que prestan e a propiedade do capital social.
 > - Certificado de rexistro ou nota regulamentaria da empresa no correspondente Rexistro Mercantil ou Rexistro Cooperativo, ou documento equivalente no caso de empresas constituídas nalgún dos devanditos Estados.
+
 > **Segunda etapa**
 > -Elementos, equipos ou sistemas capaces de recibir e verificar os sinais de alarma e a súa transmisión ás forzas e corpos de seguridade.
 > -Locais cuxos requisitos e características do sistema de seguridade son os establecidos no artigo 12 da Orde INT / 314/2011, do 1 de febreiro.
@@ -206,7 +207,7 @@ Toda a información atópase na [páxina web do Servizo ó Cidadán](http://www.
 
 Esta lei revisada o 5 de decembro do 2018, é a lei orgánica de protección de datos persoais e garantia dos dereitos dixitais. A nova normativa encárgase de trasladar ó sistema xurídico español o Regulamento (UE) 2016/679 do Parlamento Europeo e do Consello, do 27 de abril de 2016, máis coñecido como Regulamento xeral de protección de datos (Regulamento xeral de protección de datos), así como completar as súas disposicións.
 
-Regula a protección de datos baseada na premisa de que todos os datos persoais dos usuarios deben estar protexidos polos lexisladores europeos. Sen embargo, abordaremos máis en profundidade este tema noutro punto máis adiante. Xa que é conta con un apartado moito máis técnico que a anterior.
+Regula a protección de datos baseada na premisa de que todos os datos persoais dos usuarios deben estar protexidos polos lexisladores europeos. Sen embargo, abordaremos máis en profundidade este tema noutro punto máis adiante. Xa que conta con un apartado moito máis técnico que a anterior.
 
 
 ## Análisis DAFO
