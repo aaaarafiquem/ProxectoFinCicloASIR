@@ -1,0 +1,4 @@
+#	INSTALACIÓN Icinga2
+
+
+
