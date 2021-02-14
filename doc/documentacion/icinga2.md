@@ -156,7 +156,7 @@ Configuramos todo o que ten que ver a nivel aplicación e logging:
 
 ![icinga2_22](doc/img/icinga2_images/22.PNG)
 
-Vemos un pequeno resumen da configuración de IcingaWeb2:
+Vemos un pequeno resumo da configuración de IcingaWeb2:
 
 ![icinga2_23](doc/img/icinga2_images/23.PNG)
 
