@@ -71,50 +71,52 @@ Reiniciamos o servizo:
 
 `# systemctl restart icinga2`
 
-Instalamos ahora el servidor web de Apache:
+Instalamos ahora o servidor web de Apache:
 
 `# apt install apache2 -y`
 
-Añadimos la regla para el puerto 80 en el firewall e instalamos iptables-persistent para que la guarde:
+Engadimos a regra para o puerto 80 no firewall e instalamos iptables-persistent para que a guarde:
 
 `# iptables -A INPUT -p tcp -m tcp --dport 80 -j ACCEPT`
 
 `# apt install iptables-persistent`
 
-Preparamos la API de Icinga2:
+Preparamos a API de Icinga2:
 
 `# icinga2 api setup`
 
-En el fichero /etc/icinga2/conf.d/api-users.conf la información del usuario:
+No fichero /etc/icinga2/conf.d/api-users.conf a información do usuario:
 
 `object ApiUser "icingaweb2" {
   password = "abc123."
   permissions = [ "status/query", "actions/*", "objects/modify/*", "objects/query/*" ]
 }`
 
-Reiniciamos el servicio:
+Reiniciamos o servicio:
 
 `# systemctl restart icinga2`
 
-Instalamos Icinga Web 2:
+Instalamos IcingaWeb2:
 
 `# apt-get install icingaweb2 icingacli -y`
 
-Nos aseguramos de que el grupo de icingaweb2 exista y además como grupo www-data:
+Aseguramonos de que o grupo de **icingaweb2** exista e ademais tamén o grupo **www-data**:
 
 `# addgroup --system icingaweb2`
 
 `# usermod -a -G icingaweb2 www-data`
 
-También cambiamos el directorio de configuración:
+Tamén cambiamos o directorio de configuración:
 
 `# icingacli setup config directory --group icingaweb2`
 
-Ahora creamos el token de instalación con el siguiente comando:
+Agora creamos o token de instalación co seguinte comando:
 
 `# icingacli setup token create`
 
 Pasamos agora, á configuración na interface web. Para iso imos ó noso navegador favorito e poñemos "**IPServidor/icingaweb2/setup**"
+
+
 
 
 
