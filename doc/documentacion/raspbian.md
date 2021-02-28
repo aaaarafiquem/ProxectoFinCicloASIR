@@ -1,6 +1,6 @@
 #	INSTALACIÓN e CONFIGURACIÓN BÁSICA de Raspberry Pi OS
 
-Raspberry Pi OS (antes coñecido como Raspbian) é unha distribución de GNU/Linux basada en Debian baseada na arquitectura armkhf cuxa última versión foi liberada o 11 de xaneiro de 2021, basada na actual versión de Debian, Buster.  É unha distro orientada ó aprendizaxe da informática, polo que é moi sinxela, con interface gráfica e varias ferramentas preinstaladas. Podemos facernos coa imaxe deste sistema dende a [páxina oficial de Raspberry Pi](https://www.raspberrypi.org/software/operating-systems/), en calquera das súas versións (con ou sen escritorio). É o sistema operativo recomendado por a Raspberry Pi Fountation.
+**Raspberry Pi OS** (antes coñecido como Raspbian) é unha distribución de GNU/Linux basada en Debian baseada na arquitectura armkhf cuxa última versión foi liberada o 11 de xaneiro de 2021, basada na actual versión de Debian, Buster.  É unha distro orientada ó aprendizaxe da informática, polo que é moi sinxela, con interface gráfica e varias ferramentas preinstaladas. Podemos facernos coa imaxe deste sistema dende a [páxina oficial de Raspberry Pi](https://www.raspberrypi.org/software/operating-systems/), en calquera das súas versións (con ou sen escritorio). É o sistema operativo recomendado por a Raspberry Pi Fountation.
 
 Para a súa instalación, debemos contar con unha Raspberry Pi, unha tarxeta MicroSD e outro equipo para poder flashear a imaxe na MicroSD. 
 
@@ -140,13 +140,65 @@ Para instalar o cortafogos UFW utilizamos o comando:
 
 O seguinte que imos facer é eliminar o usuario por defecto pi. Antes crearemos outro usuario:
 
-`# adduser radmin`
+`# sudo adduser radmin`
 
 ![raspbian_23](doc/img/rapbian-images/23.PNG)
 
 
+
 Engadimolo os grupos do sistema, ademais dos grupos de administración **sudo** e **adm**, comprobamos que está nos grupos:
+
+`# sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi nuevousuario`
 
 ![raspbian_24](doc/img/rapbian-images/24.PNG)
 
+Unha vez engadido entramos como o usuario e comprobamos que temos permisos:
 
+![raspbian_25](doc/img/rapbian-images/25.PNG)
+
+Agora, pechamos sesión e iniciamos co noso **radmin** para eliminar o usuario **pi**:
+
+![raspbian_26](doc/img/rapbian-images/26.PNG)
+
+Eliminamos todos os procesos activos que tiveran que ver co usuario **pi** co seguinte comando:
+
+`# sudo pkill -eu pi`
+
+![raspbian_27](doc/img/rapbian-images/27.PNG)
+
+Eliminamos o usuario con:
+
+`# sudo userdel --remove-home pi`
+
+![raspbian_28](doc/img/rapbian-images/28.PNG)
+
+E eliminamos o arquivo do usuario pi do sudoers:
+
+`# sudo rm /etc/sudoers.d/010_pi-nopasswd`
+
+### SECURIZACIÓN DO SERVIZO SSH
+
+Por último, imos securizar a nosa conexión SSH. Xa que o máis normal é que no futuro nos conectemos fora da nosa rede local, debemos prepararnos para que os intrusos non teñan fácil entrar á nosa máquina.
+
+O primeiro paso será cambiar certas cousas no arquivo de configuración /etc/ssh/sshd_config:
+Cambiamos o porto do servizo, por exemplo por o 3578.
+Denegamos o inicio de sesión ó usuario root.
+Modificamos a cantidade de tempo que a pantalla de login estará dispoñible a 1 minuto.
+Cambiamos os valores de máximos intentos de inicio a 3 e de máximas sesións abertas de forma simultanea a 2.
+Obligamos a que na autentificación sempre esixa un contrasinal e que non permita contrasinais vacíos.
+Tamén lle indicamos os usuarios permitidos, neste caso o noso **radmin**, e os denegados, que neste caso queremos que sexa o **root**. 
+
+
+Revisamos a sintaxe do ficheiro despois dos cambios, se non da saída significa que está correcta:
+
+`# sudo sshd -t`
+
+![raspbian_29](doc/img/rapbian-images/29.PNG)
+
+Reiniciamos o servizo co seguinte comando:
+
+`# sudo systemctl restart sshd`
+
+Vemos que os cambios se efectuaron correctamente:
+
+![raspbian_30](doc/img/rapbian-images/30.PNG)
