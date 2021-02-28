@@ -146,7 +146,7 @@ O seguinte que imos facer é eliminar o usuario por defecto pi. Antes crearemos 
 
 
 
-Engadimolo os grupos do sistema, ademais dos grupos de administración **sudo** e **adm**, comprobamos que está nos grupos:
+Engadimolo os grupos do sistema, ademais dos grupos de administración **sudo** e **adm**. Comprobamos que está nos grupos:
 
 `# sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi nuevousuario`
 
@@ -180,13 +180,14 @@ E eliminamos o arquivo do usuario pi do sudoers:
 
 Por último, imos securizar a nosa conexión SSH. Xa que o máis normal é que no futuro nos conectemos fora da nosa rede local, debemos prepararnos para que os intrusos non teñan fácil entrar á nosa máquina.
 
-O primeiro paso será cambiar certas cousas no arquivo de configuración /etc/ssh/sshd_config:
-Cambiamos o porto do servizo, por exemplo por o 3578.
-Denegamos o inicio de sesión ó usuario root.
-Modificamos a cantidade de tempo que a pantalla de login estará dispoñible a 1 minuto.
-Cambiamos os valores de máximos intentos de inicio a 3 e de máximas sesións abertas de forma simultanea a 2.
-Obligamos a que na autentificación sempre esixa un contrasinal e que non permita contrasinais vacíos.
-Tamén lle indicamos os usuarios permitidos, neste caso o noso **radmin**, e os denegados, que neste caso queremos que sexa o **root**. 
+O primeiro paso será cambiar certas cousas no arquivo de configuración** /etc/ssh/sshd_config**:
+- Cambiamos o porto do servizo, por exemplo por o 3578.
+- Denegamos o inicio de sesión ó usuario root.
+- Modificamos a cantidade de tempo que a pantalla de login estará dispoñible a 1 minuto.
+- Cambiamos os valores de máximos intentos de inicio a 3 e de máximas sesións abertas de forma simultanea a 2.
+- Obligamos a que na autentificación sempre esixa un contrasinal e que non permita contrasinais vacíos.
+- Tamén lle indicamos os usuarios permitidos, neste caso o noso **radmin**, e os denegados, que neste caso queremos que sexa o **root**. 
+
 
 
 Revisamos a sintaxe do ficheiro despois dos cambios, se non da saída significa que está correcta:
