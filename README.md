@@ -31,7 +31,8 @@ Autorizase a copia, distribución e modificación deste documento baixo os termo
 3. [Planificación](doc/templates/4_planificacion.md)
 4. [Diseño](doc/templates/5_deseño.md)
 5. [Implantación](doc/templates/6_implantacion.md)
-
+    - [INSTALACIÓN E CONFIGURACIÓN BÁSICA DE RASPBERRY PI OS](doc/documentacion/raspbian.md)
+    - [INSTALACIÓN DE ICINGA2](doc/documentacion/icinga2.md)
 
 ## Guía de contribución
 
