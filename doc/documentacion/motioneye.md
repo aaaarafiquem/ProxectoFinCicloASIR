@@ -47,9 +47,11 @@ Instalamos agora MotionEye:
 
 Creamos el directorio de configuración:
 
-`#  mkdir -p /etc/motioneye`
+`# mkdir -p /etc/motioneye`
 
 `# cp /usr/local/share/motioneye/extra/motioneye.conf.sample /etc/motioneye/motioneye.conf`
+
+![motioneye_6](doc/img/motioneye_images/6.PNG)
 
 Creamos también, el directorio para los archivos:
 
@@ -59,27 +61,33 @@ Agregamos o script para configurar o demonio ó inicio:
 
 `# cp /usr/local/share/motioneye/extra/motioneye.systemd-unit-local /etc/systemd/system/motioneye.service`
 
+![motioneye_7](doc/img/motioneye_images/7.PNG)
+
 `# systemctl daemon-reload`
 
 `# systemctl enable motioneye`
 
 `# systemctl start motioneye`
 
+![motioneye_8](doc/img/motioneye_images/8.PNG)
+
 Comprobamos se hai novas actualizacións:
 
 `#  pip install motioneye --upgrade`
 
-![motioneye_6](doc/img/motioneye_images/6.PNG)
-
 `#  systemctl restart motioneye`
+
+![motioneye_9](doc/img/motioneye_images/9.PNG)
 
 Una vez feito, imos a http://ip_do_server:8765 e vemos a páxina de login:
 
-![motioneye_7](doc/img/motioneye_images/7.PNG)
+![motioneye_10](doc/img/motioneye_images/10.PNG)
+
 
 E temos a interface lista, lembrar cambiar o contrasinal, xa que por defecto o usuario é **admin** sen contrasinal:
 
-![motioneye_8](doc/img/motioneye_images/8.PNG)
+![motioneye_11](doc/img/motioneye_images/11.PNG)
+
 
 
 
