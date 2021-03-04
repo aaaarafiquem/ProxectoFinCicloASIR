@@ -44,88 +44,51 @@ Unha vez feito, teremos unha pantalla coma esta:
 
 Coa imaxe do sistema flasheada na MicroSD, simplemente a introducimos na Raspberry e enchufamola á corriente e conectarlle unha saída de vídeo (non olvidar como mínimo un teclado e un rato).
 
-O primeiro que nada, temos esta pantalla onde debemos indicar a acción que queremos realizar:
+Unha vez feito, realicei un escaneo con nmap na miña máquina de traballo para ver se se lle otorgou unha configuración de rede correcta:
 
 ![raspbian_1](doc/img/rapbian-images/1.PNG)
 
-
-Seleccionamos o idioma que queremos para o sistema:
+Imos agora á consola e actualizamos:
 
 ![raspbian_2](doc/img/rapbian-images/2.PNG)
 
-Agardamos a que carguen todos os compoñentos do CD:
-
 ![raspbian_3](doc/img/rapbian-images/3.PNG)
 
-Utilizamos o particionado de disco guiado polo momento:
+Imos ás _Preferencias > Configuración de Raspberry Pi_:
 
 ![raspbian_4](doc/img/rapbian-images/4.PNG)
 
-Seleccionamos o disco no que queremos que se instale o sistema:
+Aquí activamos o servizo SSH e o servizo VNC:
 
 ![raspbian_5](doc/img/rapbian-images/5.PNG)
 
-Poñemos todo nunha partición:
+Unha vez feito, observamos que na barra de tarefas aparece o icono do servizo VNC:
 
 ![raspbian_6](doc/img/rapbian-images/6.PNG)
 
-Revisamos e finalizamos a configuración dos discos:
+Volvendo agora ó meu equipo de traballo, descargamos VNC Viewer na súa [páxina oficial](https://www.realvnc.com/es/connect/download/viewer/). Unha vez instalado, abrimos o programa e teremos algo asi:
 
 ![raspbian_7](doc/img/rapbian-images/7.PNG)
 
-
+En Archivo > Nueva conexión, creamos a conexión para a nosa Raspberry Pi:
 
 ![raspbian_8](doc/img/rapbian-images/8.PNG)
 
-Esperamos a que se instale o sistema...
+Engadimos a IP da máquina e o nome que lle queiramos dar para identificala:
 
 ![raspbian_9](doc/img/rapbian-images/9.PNG)
 
-Preguntanos se queremos instalar o GRUB, obviamente decimos que si:
+Observamos que se garda a conexión:
 
 ![raspbian_10](doc/img/rapbian-images/10.PNG)
 
-Escollemos o único que temos:
+Ó dar dobre clic, abrese unha xanela emerxente que nos pedirá o usuario e o contrasinal para conectarnos á Raspberry Pi. O usuario por defecto é **pi** e o contrasinal **raspberry**:
 
 ![raspbian_11](doc/img/rapbian-images/11.PNG)
 
-Esperamos a que instale...
+Unha vez feito isto, efectuamos a conexión:
 
 ![raspbian_12](doc/img/rapbian-images/12.PNG)
-
-Finaliza a instalación:
-
-![raspbian_13](doc/img/rapbian-images/13.PNG)
-
-Fai unha limpeza de paquetes da instalación:
-
-![raspbian_14](doc/img/rapbian-images/14.PNG)
-
-Unha vez que reiniciamos, xa temos o noso Raspberry Pi OS co seu escritorio. Observamos que necesitamos configurar un par de cousiñas antes de continuar:
-
-![raspbian_15](doc/img/rapbian-images/15.PNG)
-
-Vemos que nos pregunta polo idioma e franxa horaria do sistema, escollemos:
-
-![raspbian_16](doc/img/rapbian-images/16.PNG)
-
-Cambiamos o contrasinal do usuario por defecto **pi** (que ten o mesmo contrasinal):
-
-![raspbian_17](doc/img/rapbian-images/17.PNG)
-
-Preguntanos se queremos actualizar o software, preferimos actualizar manualmente máis tarde polo que declinamos:
-
-![raspbian_18](doc/img/rapbian-images/18.PNG)
-
-Rematamos estas pequenas opcións de configuración:
-
-![raspbian_19](doc/img/rapbian-images/19.PNG)
-
-Imos agora á consola e actualizamos:
-
-![raspbian_20](doc/img/rapbian-images/20.PNG)
-
-![raspbian_21](doc/img/rapbian-images/21.PNG)
 
 ## SECURIZACIÓN BÁSICA DE RASPBERRY PI OS
 
@@ -136,45 +99,45 @@ Para instalar o cortafogos UFW utilizamos o comando:
 
 `# sudo apt install ufw -y`
 
-![raspbian_22](doc/img/rapbian-images/22.PNG)
+![raspbian_13](doc/img/rapbian-images/13.PNG)
 
 O seguinte que imos facer é eliminar o usuario por defecto pi. Antes crearemos outro usuario:
 
 `# sudo adduser radmin`
 
-![raspbian_23](doc/img/rapbian-images/23.PNG)
-
-
+![raspbian_14](doc/img/rapbian-images/14.PNG)
 
 Engadimolo os grupos do sistema, ademais dos grupos de administración **sudo** e **adm**. Comprobamos que está nos grupos:
 
-`# sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi nuevousuario`
+`# sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi radmin`
 
-![raspbian_24](doc/img/rapbian-images/24.PNG)
+![raspbian_15](doc/img/rapbian-images/15.PNG)
 
 Unha vez engadido entramos como o usuario e comprobamos que temos permisos:
 
-![raspbian_25](doc/img/rapbian-images/25.PNG)
+![raspbian_16](doc/img/rapbian-images/16.PNG)
 
 Agora, pechamos sesión e iniciamos co noso **radmin** para eliminar o usuario **pi**:
 
-![raspbian_26](doc/img/rapbian-images/26.PNG)
+![raspbian_17](doc/img/rapbian-images/17.PNG)
+
+![raspbian_18](doc/img/rapbian-images/18.PNG)
 
 Eliminamos todos os procesos activos que tiveran que ver co usuario **pi** co seguinte comando:
 
 `# sudo pkill -eu pi`
 
-![raspbian_27](doc/img/rapbian-images/27.PNG)
+![raspbian_19](doc/img/rapbian-images/19.PNG)
 
 Eliminamos o usuario con:
 
 `# sudo userdel --remove-home pi`
 
-![raspbian_28](doc/img/rapbian-images/28.PNG)
+![raspbian_20](doc/img/rapbian-images/20.PNG)
 
-E eliminamos o arquivo do usuario pi do sudoers:
+Comprobamos que o usuario se eliminou:
 
-`# sudo rm /etc/sudoers.d/010_pi-nopasswd`
+![raspbian_21](doc/img/rapbian-images/21.PNG)
 
 ### SECURIZACIÓN DO SERVIZO SSH
 
@@ -194,12 +157,19 @@ Revisamos a sintaxe do ficheiro despois dos cambios, se non da saída significa 
 
 `# sudo sshd -t`
 
-![raspbian_29](doc/img/rapbian-images/29.PNG)
+![raspbian_22](doc/img/rapbian-images/22.PNG)
+
+E eliminamos o arquivo do usuario pi do sudoers:
+
+`# sudo rm /etc/sudoers.d/010_pi-nopasswd`
 
 Reiniciamos o servizo co seguinte comando:
 
 `# sudo systemctl restart sshd`
 
-Vemos que os cambios se efectuaron correctamente:
+![raspbian_23](doc/img/rapbian-images/23.PNG)
 
-![raspbian_30](doc/img/rapbian-images/30.PNG)
+Finalmente, comprobamos que nos podemos conectar vía SSH:
+
+![raspbian_24](doc/img/rapbian-images/24.PNG)
+
