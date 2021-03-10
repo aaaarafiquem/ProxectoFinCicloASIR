@@ -116,7 +116,7 @@ Agora creamos o token de instalación co seguinte comando:
 
 Pasamos agora, á configuración na interface web. Para iso imos ó noso navegador favorito e poñemos "**IPServidor/icingaweb2/setup**"
 
-![icinga2_14](doc/img/icinga2_images/14.PNG)
+![icinga2_14](doc/img/icinga2_images/14.PNG?400)
 
 
 Imos asegurarnos de que temos o grupo **icingaweb2** e que o usuario pertence tamén ó grupo **www-data**, cambiamos o directorio de configuración.
