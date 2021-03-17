@@ -68,9 +68,19 @@ Porque é, xunto a Arduino, un dos ordenadores de placa única máis famosos e e
 - Retrocompatibilidade de aplicacións
 - Melloras en la transmisión de vídeo HD a través da rede Wi-Fi
 - Garantía de compatibilidade de paquetes en moitos ámbitos.
-- Tamaño reducido
+- Tamaño reducido.
+
+
+![rpi_esquema](doc/img/produtos/1.png) _**Imaxe explicativa dunha Raspberry Pi 3 Modelo B+**_
+
 
 Existen varias alternativas no mercado como, por exemplo, a **Rock64** ou **Banana Pi**. Ben é certo que algunhas delas teñen características superiores pero tamén teñen un prezo máis elevado, polo que tendo en conta a filosofía do proxecto e que as características da Raspberry son máis que suficientes para abordalo, este foi elixido como núcleo do proxecto.
+
+
+![rpi_conectada](doc/img/produtos/2.jpg) _**Imaxe da Raspberry Pi con unha carcasa conectada á rede cun cable RJ45**_
+
+![rpi_parte_traseira](doc/img/produtos/3.jpg) _**Imaxe da parte traseira da Raspberry Pi**_
+
 
 ##### Cámaras IP
 
