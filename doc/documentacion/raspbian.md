@@ -1,9 +1,5 @@
 #	INSTALACIÓN e CONFIGURACIÓN BÁSICA de Raspberry Pi OS
 
-**Raspberry Pi OS** (antes coñecido como Raspbian) é unha distribución de GNU/Linux basada en Debian baseada na arquitectura armkhf cuxa última versión foi liberada o 11 de xaneiro de 2021, basada na actual versión de Debian, Buster.  É unha distro orientada ó aprendizaxe da informática, polo que é moi sinxela, con interface gráfica e varias ferramentas preinstaladas. Podemos facernos coa imaxe deste sistema dende a [páxina oficial de Raspberry Pi](https://www.raspberrypi.org/software/operating-systems/), en calquera das súas versións (con ou sen escritorio). É o sistema operativo recomendado por a Raspberry Pi Fountation.
-
-Para a súa instalación, debemos contar con unha Raspberry Pi, unha tarxeta MicroSD e outro equipo para poder flashear a imaxe na MicroSD. 
-
 ## Flasheo da imaxe do sistema na tarxeta MicroSD
 
 No meu caso, vou utilizar un software chamado Balena Etcher, podemos descargalo dende a súa [páxina oficial](https://www.balena.io/etcher/).
