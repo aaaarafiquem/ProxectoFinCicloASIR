@@ -1,7 +1,5 @@
 #	INSTALACIÓN Icinga2
 
-Neste punto do proxecto abordamos a instalación da aplicación de monitorización da rede, moi necesaria nestes tempos nos que necesitamos saber se un servidor ou un servizo se viu comprometido ou sufriu unha caída. No noso caso escollín Icinga2, un software de monitorización de código aberto. É un fork do coñecido Nagios no ano 2009. A versión máis recente é a 2.11.8 (decembro de 2020). Icinga2 ademais, conta con unha gran varidade de módulos e plugins creados pola comunidade que axudan a todo o mundo. Para instalar o servizo na nosa máquina, seguimos os seguintes pasos:
-
 Aseguramonos que a máquina está actualizada:
 
 `# apt update && apt upgrade -y`
