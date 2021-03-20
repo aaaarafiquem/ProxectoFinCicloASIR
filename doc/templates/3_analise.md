@@ -159,6 +159,9 @@ Existen versións da arquitectura ARM de Sistemas Operativos alternativos das di
 - Tarxetas de captura de vídeo.
 - Arquivos de vídeo existentes.
 
+![motioneye_logo](doc/img/produtos/10.png)
+
+
 Volvendo a MotionEye, vemos que ten unha interface gráfica sinxela ca que podemos configurar todos os aspectos das cámaras. Polo que non é necesario ser un usuario experto para poder utilizalo. Incluso existe unha distribución basada en Debian chamada MotionEyeOS, ainda que para este caso, que imos ter outros servizos na mesma máquina para aforrar costes non é o máis axeitado.
 
 ![motioneye_0](doc/img/motioneye_images/0.png)
