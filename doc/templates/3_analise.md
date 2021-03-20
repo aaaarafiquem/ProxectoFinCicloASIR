@@ -19,13 +19,11 @@ Tamén varias cámaras que varían en prezo e tipo.
 
 ## Funcionalidades
 
-1.	Instalación e configuración de Raspberry Pi OS.
-2.	Instalación e configuración de MotionEye, Icinga2.
-3.	Xestión de cámaras.
-4.	Xestión de hosts e servizos de monitorización.
-5.	Creación e xestión de alertas.
-6.	Xestión de nome de dominio.
-7.	Control remoto de máquinas.
+1. Poder xestionar varios tipos de cámaras e o seu comportamento.
+2. Poder xestionar os equipos e servizos para a súa monitorización na rede.
+3. Poder xestionar as alertas para o sistema de videovixilancia e o sistema de monitorización.
+4. Poder acceder remotamente ás máquinas, ben sexa mediante SSH ou Control remoto.
+
  
 ## Requerimentos non funcionais
 - Contrasinais robustos.
@@ -192,7 +190,18 @@ Determinar todas aquelas persoas, entidades ou cousas que poden ter un impacto (
 ## Actividades
 Definir, de forma xeral, os pasos que se han seguir para levar a cabo o proxecto, de forma que na fase de planificación nos sirvan como referencia para detallar as tarefas, recursos e temporalización necesaria para cada fase.
 
+1.  Análise do entorno no que imos implementar o sistema.
+2.  Elección dos produtos que se van utilizar.
+3.	Instalación e configuración de Raspberry Pi OS.
+4.	Instalación e configuración de MotionEye e Icinga2.
+5.	Creación e xestión de alertas no sistema.
+6.	Xestión de nome de dominio e reenvío de portos.
+
+
 ## Melloras futuras
 
-Este proxecto está centrado en resolver unha necesidade
-É posible que o noso proxecto se centre en resolver un problema concreto que se poderá ampliar no futuro con novas funcionalidades, novas interfaces, etc.
+Este proxecto está centrado en cubrir unha necesidade que moita xente ten e non se pode permitir. No futuro, podemos engadir novas funcionalidades, como por exemplo:
+- Integrar un sistema de alarma no sistema clásico cos chaveiros con sensores RFID nunha placa Arduino.
+- Integrar varios tipos de sensores (fume, humidade, sonido...).
+- Crear un frontend propio para así poder decidir o rumbo que vai tomar e poder integrar todo o anterior sen depender de ninguén.
+- Adquisición dun bo servidor central e un servizo de hosting profesional.
