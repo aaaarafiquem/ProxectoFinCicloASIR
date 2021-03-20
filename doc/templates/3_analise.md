@@ -81,6 +81,9 @@ Existen varias alternativas no mercado como, por exemplo, a **Rock64** ou **Bana
 
 ![rpi_parte_traseira](doc/img/produtos/3.jpg) _**Imaxe da parte traseira da Raspberry Pi**_
 
+![rpi_parte_traseira](doc/img/produtos/13.jpg) _**Imaxe da conexión da cámara de Raspberry Pi no porto CSI**_
+
+![rpi_parte_traseira](doc/img/produtos/14.jpg) _**Imaxe comparación de cámara conectada á Raspberry Pi**_
 
 ##### Cámaras IP
 
@@ -105,6 +108,10 @@ Hai diferentes marcas de cámaras IP e distintos rangos de prezos, sen embargo, 
 Son ideais para interiores xa que contan con unha boa resolución de vídeo ademais dun cabezal que permite ter un ángulo de visión de 360º facendo uso de  e nocturna. Teñen unha app propia para xestionalas dende ela, podemos controlar de maneira independente certas cousas como horario de grabación, alertas, etc.
 
 No noso caso non a imos utilizar máis que para vincular a cámara á nosa rede inalámbrica e para otorgarlles un nome de usuario e contrasinal para que sexa máis seguro.
+
+Algo a ter en conta nas cámaras de Xiaomi é que non veñen preparadas para poder comunicarse a través do protocolo RTSP, só dende a súa propia app Xiaomi Home. De todas maneiras, pododemos conseguilo facendo un cambio de firmware, polo que hai que fixarse ben no modelo por se existe un firmware alternativo compatible. Por exemplo, no meu caso un usuario creou ese firmware e compartiuno ca comunidade [neste repositorio de GitHub](https://github.com/cmiguelcabral/mjsxj05cm-rtsp-server).
+
+Podendo evitar o anterior, o aconsellable sería buscar outros modelos que sí admitan a comunicación polo protocolo RTSP.
 
 **Por qué cámaras IP?**
 
@@ -135,9 +142,46 @@ Como podemos ver, é unha plaquiña que non podemos deixar ó aire libre por pos
 ### Software
 Analizar as opcións software existentes e xustificar a idoneidade dos compoñentes seleccionados.
 
-- Raspberry Pi OS
-- MotionEye
-- Icinga2
+#### Raspberry Pi OS
+
+**Raspberry Pi OS** (antes coñecido como Raspbian) é unha distribución de GNU/Linux basada en Debian baseada na arquitectura armkhf cuxa última versión foi liberada o 11 de xaneiro de 2021, basada na actual versión de Debian, Buster.  É unha distro orientada ó aprendizaxe da informática, polo que é moi sinxela, con interface gráfica e varias ferramentas preinstaladas. Podemos facernos coa imaxe deste sistema dende a [páxina oficial de Raspberry Pi](https://www.raspberrypi.org/software/operating-systems/), en calquera das súas versións (con ou sen escritorio). É o sistema operativo recomendado por a Raspberry Pi Fountation.
+
+![rpios_logo](doc/img/produtos/9.jpg)
+
+Existen versións da arquitectura ARM de Sistemas Operativos alternativos das distribucións máis famosas (Debian, CentOS 7...). Sen embargo, como anteriormente se comentou, Raspberry Pi OS, é o sistema operativo recomendado por a Raspberry Pi Fountation, xa que está perfectamente optimizada para os seus dispositivos.
+
+#### MotionEye
+
+**MotionEye** é un frontend web para o demonio Motion programado en Python. Á súa vez, **Motion** é un software de CCTV para sistemas GNU/Linux. Utiliza a API de captura de vídeo video4linux e podemos utilizar unha gran variedade de dispositivos como:
+- Cámaras IP via protocolos RSTP, RTMP e HTTP.
+- Cámaras para Raspberry Pi.
+- Webcams que utilicen o protocolo V4L2 (video4linux2)
+- Tarxetas de captura de vídeo.
+- Arquivos de vídeo existentes.
+
+Volvendo a MotionEye, vemos que ten unha interface gráfica sinxela ca que podemos configurar todos os aspectos das cámaras. Polo que non é necesario ser un usuario experto para poder utilizalo. Incluso existe unha distribución basada en Debian chamada MotionEyeOS, ainda que para este caso, que imos ter outros servizos na mesma máquina para aforrar costes non é o máis axeitado.
+
+![motioneye_0](doc/img/motioneye_images/0.png)
+
+Como en todo, existen alternativas para o mesmo. Por exemplo: ZoneMinder para Linux, Shinobi multiplataforma (excepto Windows) as dúas gratuitas e OpenSource, iSpy (Freeware e OpenSource) pero só para sistemas Windows, Blue Iris unha aplicación moi completa e que funciona excelente e é multiplataforma (excepto Linux) pero é de pago, polo que non sería compatible coa nosa filosofía.
+
+En resumo, MotionEye foi a escollida porque me chamou a atención xa Motion, pero facer un bo frontend sería complicado e levaría moito tempo. Polo que buscando na rede din co proxecto do usuario de GitHub **ccrisan** creador do que falamos, MotionEye que comparte con todo o mundo [no seu repositorio](https://github.com/ccrisan/motioneye).
+
+#### Icinga2
+
+A monitorización de redes é moi importante nestes tempos nos que necesitamos saber se un servidor ou un servizo se viu comprometido ou sufriu unha caída. No noso caso escollín **Icinga2**, un software de monitorización de código aberto. 
+
+![icinga2_logo](doc/img/produtos/11.png)
+
+É un fork do coñecido Nagios no ano 2009. A versión máis recente é a 2.11.8 (decembro de 2020). Icinga2 ademais, conta con unha gran varidade de módulos e plugins creados pola comunidade que axudan a todo o mundo. 
+
+No mercado hai unha amplia gama de aplicacións para este propósito, como Zabbix, Cacti, Centreon, Microsoft Network Monitor... 
+
+**Por que Icinga2?** Ademais de porque é libre e gratuita, está en continuo desenvolvemento con unha gran comunidade detrás reportando e resolvendo erros. Funciona sobre módulos, polo que se necesitamos algunha funcionalidade a maiores, só temos que instalar ese módulo, por exemplo un módulo de análise de datos e gráficas como pode ser PNP.
+
+![icinga2_pnp4nagios](doc/img/produtos/12.jpg)
+
+Por último pero non menos importante, teño coñecemento e interés na instalación e configuración desta aplicación, polo que me resultará máis sinxelo desenvolver esta tarefa.
 
 ## Análise de riscos e interesados
 Determinar todas aquelas persoas, entidades ou cousas que poden ter un impacto (positivo ou negativo) no proxecto ou na idea de negocio, e indicar as medidas a levar a cabo para tratar de potenciar os impactos positivos e evitar ou mitigar os posibles impactos negativos.
@@ -146,4 +190,6 @@ Determinar todas aquelas persoas, entidades ou cousas que poden ter un impacto (
 Definir, de forma xeral, os pasos que se han seguir para levar a cabo o proxecto, de forma que na fase de planificación nos sirvan como referencia para detallar as tarefas, recursos e temporalización necesaria para cada fase.
 
 ## Melloras futuras
+
+Este proxecto está centrado en resolver unha necesidade
 É posible que o noso proxecto se centre en resolver un problema concreto que se poderá ampliar no futuro con novas funcionalidades, novas interfaces, etc.
