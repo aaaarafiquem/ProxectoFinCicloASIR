@@ -12,35 +12,54 @@
 Descríbense as fases en que se divide o proxecto e as tarefas que se han levar a cabo en cada unha destas fases.
 Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se son os mesmos, de maneira máis xeral.
 
-#### Fase 1: Estudo de necesidades e modelo de negocio
+#### Fase 1: Análise do entorno
 
-##### Tarefa 1: xxxxxxxx
+##### Tarefa 1: Desplazamento ó domicilio ou negocio 
 
-Descrición: 
+Descrición: Desprazarémonos ó sitio onde se desplegará o sistema para que o cliente nos explique o que necesita e poder ver as instalacións para planificar a implementación. 
 
-Recursos hardware/software: 
+Recursos necesarios: un vehículo para desprazarse en caso de ser necesario.
 
-Recursos humanos: Persoas que se encargarán de realizar esta tarefa
+##### Tarefa 2: Análise do marco de traballo
 
-Duración: 
+Descrición: Unha vez no lugar, faremos un estudo da estrutura de rede do cliente basándonos nos seus requerimentos.
 
-#### Tarefa 2
-...
+Recursos necesarios: Un metro e unha libreta para apuntar todo o necesario.
 
-#### Fase 2: xxxxx
+#### Fase 2: Configuración do hardware base
 
-##### Tarefa 1: xxxxxxxx
+##### Tarefa 1: Instalación e configuración de Raspberry Pi OS
 
-Descrición: 
+Descrición: Instalarase o Sistema Operativo e farase a configuración básica tal e como se explica no [punto 5.1](doc/documentacion/raspbian.md).
 
-Recursos hardware/software: 
+Recursos hardware/software:
+- Raspberry Pi 3 B+
+- Carcasa para Raspberry Pi
+- Kit de ferramentas básicas (desparafusadores, tornillos...)
+- Imaxe do Sistema Operativo
+- Conexión a Internet
 
-Recursos humanos: 
+#### Fase 3: Instalación do software para o CCTV: MotionEye
 
-Duración: 
+##### Tarefa 1: Instalación de MotionEye
 
-#### Tarefa 2
-...
+Descrición: Executar a instalación de MotionEye no sistema, seguindo os pasos do [punto 5.2](doc/documentacion/motioneye.md).
+
+Recursos hardware/software:
+
+- Repositorio de MotionEye
+- Conexión a Internet
+
+#### Fase 4: Instalación do software de monitorización: Icinga2
+
+##### Tarefa 1: Instalación de Icinga2
+
+Descrición: Levarase a cabo a instalación de Icinga2, seguindo os pasos do [punto 5.3](doc/documentacion/icinga2.md).
+
+Recursos hardware/software:
+
+- Repositorio de Icinga2 e dependencias
+- Conexión a Internet
 
 ### Diagrama de Gantt
 Un diagrama de Gantt é unha representación gráfica da secuenciación que tes que seguir para realizar as tarefas planificadas. Pódese usar o software "Gantt project" ou calquera outro que permita representar nun cronograma a información relativa á planificación de tarefas. 
