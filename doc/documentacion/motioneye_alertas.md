@@ -4,7 +4,7 @@
 
 Neste punto configuraremos o envío de alertas para que cada vez que MotionEye detecta movemento nos envíe un correo electrónico.
 
-Primeiro que nada, debemos instalar o paquete **postfix** e **mailutils**:
+Primeiro que nada, debemos instalar os paquetes **postfix** e **mailutils**:
 
 `apt-get update && apt-get install postfix mailutils`
 
