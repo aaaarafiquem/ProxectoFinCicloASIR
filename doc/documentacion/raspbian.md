@@ -97,6 +97,14 @@ Para instalar o cortafogos UFW utilizamos o comando:
 
 ![raspbian_13](doc/img/rapbian-images/13.PNG)
 
+Agora, engadimos a regla para o noso futuro porto para a conexión SSH, o 3578. Activamos tamén o cortafogos:
+
+![raspbian_25](doc/img/rapbian-images/25.PNG)
+
+Engadimos tamén o porto do servizo VNC e comprobamos de novo o estado:
+
+![raspbian_26](doc/img/rapbian-images/26.PNG)
+
 O seguinte que imos facer é eliminar o usuario por defecto pi. Antes crearemos outro usuario:
 
 `# sudo adduser radmin`
