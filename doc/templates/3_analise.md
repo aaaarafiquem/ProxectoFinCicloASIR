@@ -107,7 +107,7 @@ Son ideais para interiores xa que contan con unha boa resolución de vídeo adem
 
 No noso caso non a imos utilizar máis que para vincular a cámara á nosa rede inalámbrica e para otorgarlles un nome de usuario e contrasinal para que sexa máis seguro.
 
-Algo a ter en conta nas cámaras de Xiaomi é que non veñen preparadas para poder comunicarse a través do protocolo RTSP, só dende a súa propia app Xiaomi Home. De todas maneiras, pododemos conseguilo facendo un cambio de firmware, polo que hai que fixarse ben no modelo por se existe un firmware alternativo compatible. Por exemplo, no meu caso un usuario creou ese firmware e compartiuno ca comunidade [neste repositorio de GitHub](https://github.com/cmiguelcabral/mjsxj05cm-rtsp-server).
+Algo a ter en conta nas cámaras de Xiaomi é que non veñen preparadas para poder comunicarse a través do protocolo RTSP, só dende a súa propia app Xiaomi Home. De todas maneiras, podemos conseguilo facendo un cambio de firmware, polo que hai que fixarse ben no modelo por se existe un firmware alternativo compatible. Por exemplo, no meu caso, un usuario creou ese firmware e compartiuno ca comunidade [neste repositorio de GitHub](https://github.com/cmiguelcabral/mjsxj05cm-rtsp-server).
 
 Podendo evitar o anterior, o aconsellable sería buscar outros modelos que sí admitan a comunicación polo protocolo RTSP.
 
@@ -142,7 +142,7 @@ Analizar as opcións software existentes e xustificar a idoneidade dos compoñen
 
 #### Raspberry Pi OS
 
-**Raspberry Pi OS** (antes coñecido como Raspbian) é unha distribución de GNU/Linux basada en Debian baseada na arquitectura armkhf cuxa última versión foi liberada o 11 de xaneiro de 2021, basada na actual versión de Debian, Buster.  É unha distro orientada ó aprendizaxe da informática, polo que é moi sinxela, con interface gráfica e varias ferramentas preinstaladas. Podemos facernos coa imaxe deste sistema dende a [páxina oficial de Raspberry Pi](https://www.raspberrypi.org/software/operating-systems/), en calquera das súas versións (con ou sen escritorio). É o sistema operativo recomendado por a Raspberry Pi Fountation.
+**Raspberry Pi OS** (antes coñecido como Raspbian) é unha distribución de GNU/Linux baseada en Debian creada para a arquitectura **armkhf** cuxa última versión foi liberada o 11 de xaneiro de 2021, da actual versión de Debian, Buster.  É unha distro orientada ó aprendizaxe da informática, polo que é moi sinxela, con interface gráfica e varias ferramentas preinstaladas. Podemos facernos coa imaxe deste sistema dende a [páxina oficial de Raspberry Pi](https://www.raspberrypi.org/software/operating-systems/), en calquera das súas versións (con ou sen escritorio). É o sistema operativo recomendado por a Raspberry Pi Fountation.
 
 ![rpios_logo](doc/img/produtos/9.jpg)
 
@@ -150,7 +150,7 @@ Existen versións da arquitectura ARM de Sistemas Operativos alternativos das di
 
 #### MotionEye
 
-**MotionEye** é un frontend web para o demonio Motion programado en Python. Á súa vez, **Motion** é un software de CCTV para sistemas GNU/Linux. Utiliza a API de captura de vídeo video4linux e podemos utilizar unha gran variedade de dispositivos como:
+**MotionEye** é un frontend web para o demo **Motion** programado en Python. Á súa vez, **Motion** é un software de CCTV para sistemas GNU/Linux. Utiliza a API de captura de vídeo video4linux e podemos utilizar unha gran variedade de dispositivos como:
 - Cámaras IP via protocolos RSTP, RTMP e HTTP.
 - Cámaras para Raspberry Pi.
 - Webcams que utilicen o protocolo V4L2 (video4linux2)
@@ -160,13 +160,15 @@ Existen versións da arquitectura ARM de Sistemas Operativos alternativos das di
 ![motioneye_logo](doc/img/produtos/10.png)
 
 
-Volvendo a MotionEye, vemos que ten unha interface gráfica sinxela ca que podemos configurar todos os aspectos das cámaras. Polo que non é necesario ser un usuario experto para poder utilizalo. Incluso existe unha distribución basada en Debian chamada MotionEyeOS, ainda que para este caso, que imos ter outros servizos na mesma máquina para aforrar costes non é o máis axeitado.
+Volvendo a MotionEye, vemos que ten unha interface gráfica sinxela ca que podemos configurar todos os aspectos das cámaras, polo que non é necesario ser un usuario experto para poder utilizalo. Incluso existe unha distribución baseada en Debian chamada **MotionEyeOS**, aínda que para este caso, que imos ter outros servizos na mesma máquina para aforrar costes, non é o máis axeitado.
 
 ![motioneye_0](doc/img/motioneye_images/0.png)
 
-Como en todo, existen alternativas para o mesmo. Por exemplo: ZoneMinder para Linux, Shinobi multiplataforma (excepto Windows) as dúas gratuitas e OpenSource, iSpy (Freeware e OpenSource) pero só para sistemas Windows, Blue Iris unha aplicación moi completa e que funciona excelente e é multiplataforma (excepto Linux) pero é de pago, polo que non sería compatible coa nosa filosofía.
+En todo existen alternativas. Por un lado, atopamos as alternativas gratuitas e OpenSource: ZoneMinder (dispoñible para Linux), Shinobi (multiplataforma) e iSpy (Freeware, só para sistemas Windows). 
 
-En resumo, MotionEye foi a escollida porque me chamou a atención xa Motion, pero facer un bo frontend sería complicado e levaría moito tempo. Polo que buscando na rede din co proxecto do usuario de GitHub **ccrisan** creador do que falamos, MotionEye que comparte con todo o mundo [no seu repositorio](https://github.com/ccrisan/motioneye).
+Por outra banda, temos Blue Iris que é unha aplicación moi completa e multiplataforma (excepto Linux) pero é de pago, polo que non sería compatible coa nosa metodoloxía.
+
+En resumo, MotionEye foi a escollida porque previamente me chamou a atención Motion, pero facer un bo _frontend_ sería complicado e levaría moito tempo, polo que buscando na rede din co proxecto do usuario de GitHub **ccrisan** creador de MotionEye e que comparte con todo o mundo [no seu repositorio](https://github.com/ccrisan/motioneye).
 
 #### Icinga2
 
@@ -182,7 +184,7 @@ No mercado hai unha amplia gama de aplicacións para este propósito, como Zabbi
 
 ![icinga2_pnp4nagios](doc/img/produtos/12.jpg)
 
-Por último pero non menos importante, teño coñecemento e interés na instalación e configuración desta aplicación, polo que me resultará máis sinxelo desenvolver esta tarefa.
+Por último, pero non menos importante, teño coñecemento e interés na instalación e configuración desta aplicación, polo que me resultará máis sinxelo desenvolver esta tarefa.
 
 ## Análise de riscos e interesados
 Determinar todas aquelas persoas, entidades ou cousas que poden ter un impacto (positivo ou negativo) no proxecto ou na idea de negocio, e indicar as medidas a levar a cabo para tratar de potenciar os impactos positivos e evitar ou mitigar os posibles impactos negativos.
@@ -201,7 +203,7 @@ Definir, de forma xeral, os pasos que se han seguir para levar a cabo o proxecto
 ## Melloras futuras
 
 Este proxecto está centrado en cubrir unha necesidade que moita xente ten e non se pode permitir. No futuro, podemos engadir novas funcionalidades, como por exemplo:
-- Integrar un sistema de alarma no sistema clásico cos chaveiros con sensores RFID nunha placa Arduino.
+- Integrar un sistema de alarma co sistema clásico de chaveiros con sensores RFID nunha placa Arduino.
 - Integrar varios tipos de sensores (fume, humidade, sonido...).
 - Crear un frontend propio para así poder decidir o rumbo que vai tomar e poder integrar todo o anterior sen depender de ninguén.
 - Adquisición dun bo servidor central e un servizo de hosting profesional.
