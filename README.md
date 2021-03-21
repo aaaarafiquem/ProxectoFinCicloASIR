@@ -45,11 +45,13 @@ Autorizase a copia, distribución e modificación deste documento baixo os termo
     
     5.4. [INSTALACIÓN E CONFIGURACIÓN DE DASHING DASHBOARD DE ICINGA2](doc/documentacion/icinga2_dashing_dashboard.md)
 
-    5.5. [CONFIGURACIÓN DE ALERTAS MOTIONEYE](doc/documentacion/motioneye_alertas.md)
-    
-    5.6. [CONFIGURACIÓN DE ALERTAS ICINGA2](doc/documentacion/icinga2_alertas.md)
+    5.5. [APERTURA DE PORTOS ROUTER DE R](doc/documentacion/apertura_de_portos.md)
 
-    5.7. [APERTURA DE PORTOS ROUTER DE R](doc/documentacion/apertura_de_portos.md)
+    5.6. [CONFIGURACIÓN DE ALERTAS MOTIONEYE](doc/documentacion/motioneye_alertas.md)
+    
+    5.7. [CONFIGURACIÓN DE ALERTAS ICINGA2](doc/documentacion/icinga2_alertas.md)
+
+   
     
 ## Guía de contribución
 
