@@ -4,11 +4,15 @@ Neste punto configuraremos o envío de alertas para que cada vez que MotionEye d
 
 Primeiro que nada, debemos instalar o paquete **postfix** e **mailutils**:
 
+`apt-get update && apt-get install postfix mailutils`
+
 ![motioneye_alertas_2](doc/img/motioneye_alertas_images/1.PNG)
 
 ![motioneye_alertas_2](doc/img/motioneye_alertas_images/2.PNG)
 
-Unha vez instalados, imos ó ficheiro de configuración do servizo. Copiamos o arquivo **main.cf**.proto e renomeamolo a **main.cf**. Finalmente, deixamolo tal que así:
+Unha vez instalados, imos ó ficheiro de configuración do servizo. Copiamos o arquivo **main.cf**.proto e renomeamolo a **main.cf**. Finalmente, deixamolo tal que así (usaremos o comando **cat + unha tubería + grep** para así eliminar os comentarios e os saltos de liña):
+
+`cat /etc/postfix/main.cf | grep -v "^#\|^$"`
 
 ![motioneye_alertas_3](doc/img/motioneye_alertas_images/3.PNG)
 
