@@ -144,53 +144,20 @@ Para establecer os custos do proxecto debes ter en conta diferentes conceptos:
 O maior custo no proxecto case sempre corresponde ás persoas, polo que é importante controlar o número de horas que se invisten en cada actividade para que non se nos desequilibre o orzamento. Tamén hai que coidar as subcontratacións; convén que traballen cun orzamento establecido.
  A continuación preséntanse dúas opción de táboa para facilitar a creación do orzamento do proxecto:
 
-### Orzamento por actividade
-
-| ACTIVIDADE | DURACIÓN | CUSTO (EUROS) | | CUSTO TOTAL ACTIVIDADE |
-|--|--|--|--|--|
-|            |          | PERSOAS|RECURSOS MATERIAIS|
-|||||
-|||||
-|||||
-|||||
-
-| TOTAL | PROXECTO | 
-| -- | -- |
-
-### Orzamento por partidas de inversión / gasto:
+### Orzamento do proxecto real
 
 | CONCEPTO | IMPORTE|
 |--|--|
-|**A) INVERSIONS**
-|Gastos de establecemento e gastos de constitución
-|Total inmobilizacións inmateriais
-|Terreos
-|Construcións
-|Instalacións técnicas
-|Maquinaria
-|Ferramentas
-|Mobiliario e instalacións
-|Equipos informáticos
-|Elementos de transporte
-|Outro inmobilizado material
-|Total inmobilizacións materiais
-|Outros gastos a distribuír en varios exercicios
-|**TOTAL INVERSIÓNS:**
-|**B) GASTOS**
-|Compras de materiais
-|Arrendamentos
-|Publicidade, propaganda e relacións públicas
-|Persoal
-|Reparacións e conservación
-|Servizos de profesionais independentes
-|Outros gastos xerais
-|Gastos financeiros
-|Amortizacións
-|Gastos de xestión e administración
-|**TOTAL GASTOS:**
+| Raspberry Pi 3 B+ | 36,95 € 
+| Tarxeta MicroSD | 7,71 €
+| Carcasa para Raspberry Pi | 10,99 €
+| Raspberry Cámara V2 | 29,99 €
+| Xiaomi MI Home Security Camera 360° | 35,97 €
+| TP-Link - Cámara IP WiFi 360º | 27,90 €
 
-|TOTAL ORZAMENTO:
-|--|
+| TOTAL | PROXECTO | 
+|--|--|
+| -- | 149,51 € |
 
 ### WEBGRAFÍA
 Guía para a elaboración de proyectos. Gobierno Vasco.
