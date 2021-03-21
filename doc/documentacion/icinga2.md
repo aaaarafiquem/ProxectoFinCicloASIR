@@ -186,6 +186,8 @@ Unha vez feito o anterior, executamos o comando
 
 ![icinga2_25](doc/img/icinga2_images/25.PNG)
 
+Podemos executar análise do certificado do noso dominio [neste link](https://www.ssllabs.com/ssltest/analyze.html?d=raspbicctv.ga) que nos devolverá  un informe do mesmo.
+
 ## Preparación de IcingaWeb2
 
 Preparamos a API de Icinga2:
