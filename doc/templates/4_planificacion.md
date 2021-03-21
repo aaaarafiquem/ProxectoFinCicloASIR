@@ -61,6 +61,71 @@ Recursos hardware/software:
 - Repositorio de Icinga2 e dependencias
 - Conexión a Internet
 
+##### Tarefa 2: Adquisición de nome de dominio e certificado SSL
+
+Descrición: Dentro do marco da instalación de Icinga2, creamos un nome de dominio (no noso caso, un gratuito). Indicado tamén no [punto 5.3](doc/documentacion/icinga2.md).
+
+Recursos hardware/software:
+
+- Conta en FreeNom
+- Creación do certificado
+- Os paquetes de CertBot, SSL e rewrite de Apache2.
+- Conexión a Internet
+
+##### Tarefa 3: Instalación de Dashing Dashboard
+
+Descrición: Instalación do Icinga2 Dashing Dashboard. Farase tamén a configuración básica tal e como se explica no [punto 5.4](doc/documentacion/icinga2_dashing_dashboard.md).
+
+Recursos hardware/software:
+
+- Repositorio de Dashing Dashboard e dependencias
+- Conexión a Internet
+
+##### Tarefa 4: Apertura de portos no router
+
+Descrición: Abriranse os portos necesarios no router do cliente. Dependendo do operador, poderá variar a maneira de facelo.
+
+**NOTA:** No meu caso, fixen unha pequena guía da apertura dos portos nun router de R (que están moi capados) explicada no [punto 5.5](doc/documentacion/apertura_de_portos.md).
+
+Recursos hardware/software:
+
+- As credenciais de acceso ó router.
+- Un ordenador portátil para poder acceder ó router.
+
+
+#### Fase 5: Configuración de alertas dos servizos
+
+##### Tarefa 1: Configuración de Postfix
+
+Descrición: Configuraremos Postfix para que o noso servidor teña a capacidade de enviar correos por si mesmo.
+
+Recursos hardware/software: 
+
+- Paquetes Postfix e mailutils
+- Conta en Gmail ou outro proveedor de correo
+- Conexión a Internet
+
+##### Tarefa 2: Alertas de MotionEye
+
+Descrición: Configuraránse as alertas dentro da propia aplicación de MotionEye. Explicado no [punto 5.6](doc/documentacion/motioneye_alertas.md). 
+
+Recursos hardware/software: realmente ningún adicional, só poder acceder a MotionEye e o correo en cuestión.
+
+##### Tarefa 3: Alertas de Icinga2
+
+Descrición: Configuraránse as alertas según as necesidades do cliente, tendo en conta a configuración da tarefa 1 e o explicado no [punto 5.7](doc/documentacion/icinga2_alertas.md).
+
+Recursos hardware/software: 
+
+- Documentacion necesaria, dispoñible na [páxina oficial de Icinga2](https://icinga.com/docs/icinga-2/latest/doc/03-monitoring-basics/#notifications)
+- Conexión a Internet
+
+#### Fase 6: Comprobación do correcto funcionamento dos servizos
+
+##### Tarefa 1: Comprobamos que chegamos ós nomes de dominio 
+
+Descrición: Comprobamos que chegamos correctamente cos nomes do noso dominio e as redireccións.
+
 ### Diagrama de Gantt
 Un diagrama de Gantt é unha representación gráfica da secuenciación que tes que seguir para realizar as tarefas planificadas. Pódese usar o software "Gantt project" ou calquera outro que permita representar nun cronograma a información relativa á planificación de tarefas. 
 
