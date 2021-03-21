@@ -209,7 +209,10 @@ Toda a información atópase na [páxina web do Servizo ó Cidadán](http://www.
 
 Esta lei revisada o 5 de decembro do 2018, é a lei orgánica de protección de datos persoais e garantia dos dereitos dixitais. A nova normativa encárgase de trasladar ó sistema xurídico español o Regulamento (UE) 2016/679 do Parlamento Europeo e do Consello, do 27 de abril de 2016, máis coñecido como Regulamento xeral de protección de datos (Regulamento xeral de protección de datos), así como completar as súas disposicións.
 
-Regula a protección de datos baseada na premisa de que todos os datos persoais dos usuarios deben estar protexidos polos lexisladores europeos. Sen embargo, abordaremos máis en profundidade este tema noutro punto máis adiante. Xa que conta con un apartado moito máis técnico que a anterior.
+Regula a protección de datos baseada na premisa de que todos os datos persoais dos usuarios deben estar protexidos polos lexisladores europeos. 
+
+Podemos consultala no BOE, ademais tamén podemos consultar a guía de videovixilancia creada pola mesma axencia que explica brevemente o uso de
+videocámaras para seguridade e outras finalidades.
 
 
 ## Análisis DAFO
