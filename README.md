@@ -70,6 +70,14 @@ Por exemplo, podería intentar crease un frontend propio en lugar de utilizar un
 - [Documentación oficial de MotionEye](https://github.com/ccrisan/motioneye/wiki)
 - [Documentación oficial Icinga2](https://icinga.com/docs/icinga-2/latest/doc/01-about/)
 - [Documentación oficial Icinga2 Web](https://icinga.com/docs/icinga-web-2/latest/)
+- [Documentación oficial sobre as notificacións de Icinga2](https://icinga.com/docs/icinga-2/latest/doc/03-monitoring-basics/#notifications)
+
+#### Colaboracións da comunidade
+
+- [Repositorio de GitHub do Dashing Dashboard de Icinga2](https://github.com/mocdaniel/dashing-icinga2)
+- [Repositorio da plantilla HTML do usuario shyamjos](https://github.com/shyamjos/HTML-email-template-for-Icinga-2)
+- [Páxina web de shyamjos sobre a plantilla](https://shyamjos.com/icinga2-html-template/)
+
 
 #### Licenzas
 - [Páxina oficial da Licenza de documentación Libre de GNU](https://www.gnu.org/licenses/fdl-1.3-faq.en.html#top)
