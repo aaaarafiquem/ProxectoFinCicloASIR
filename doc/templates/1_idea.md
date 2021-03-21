@@ -16,8 +16,7 @@ Por outra banda o software a utilizar sería o seguinte:
 - Sistema Operativo: Raspbian.
 - Software para o sistema de videovixilancia: Motion, MotionEye.
 - Sistema de monitorización da rede: Icinga2.
-- Sistema de almacenamento na nube: software como NextCloud ou Owncloud.
 - Alertas ó usuario por correo, SMS, bot de Telegram...
-- Securización de rede: iptables, Fail2ban...
+- Securización de rede: firewall, Fail2ban...
 
 En canto á comercialización do mesmo, a idea é facelo como un proxecto aberto, do que todo o mundo poida sacar o coñecemento e implementalo libremente. O software utilizado posúe licenzas de software libre e a Raspberry Pi, unha vez adquirida tes toda a potestade de facer o que desexes con ela, sen embargo, hai que ter en conta que gran parte do contido do SO Raspbian ten licencia GPL, polo que o único que piden dende a Raspberry Pi Foundation é que se debe proporcionar acceso ó código fonte se é solicitado. Tendo iso en conta, poderíamos ter unha oportunidade de negocio real, ainda que, prefiro que sexa un proxecto libre.
