@@ -130,21 +130,6 @@ Descrición: Comprobamos que chegamos correctamente cos nomes do noso dominio e 
 Un diagrama de Gantt é unha representación gráfica da secuenciación que tes que seguir para realizar as tarefas planificadas. Pódese usar o software "Gantt project" ou calquera outro que permita representar nun cronograma a información relativa á planificación de tarefas. 
 
 ## Orzamento
-O orzamento do proxecto será a suma do importe dos materiais que necesites para realizar o proxecto máis o importe que corresponde ao traballo realizado. 
-O importe relacionado co traballo no proxecto é relativamente fácil de obter se se elaboraron ben as etapas anteriores: definir as actividades necesarias e os recursos propios de cada actividade. Neste caso disporase dun custo por cada actividade e a suma do custo de todas as actividades será o custo total do traballo do proxecto. 
-Para establecer os custos do proxecto debes ter en conta diferentes conceptos: 
-- Materiais que se utilizan: material funxible, materias primas, materiais didácticos, roupa de traballo… 
-- Custo horario das persoas que participan directamente na actividade. 
-- Aluguer/compra de ferramentas, maquinaria, equipos informáticos e/ou audiovisuais… 
-- Aluguer/compra de locais 
-- Contratos de subministracións: auga, luz, electricidade, gas… Subcontrataciones 
-- Gastos de publicidade… 
-- Seguros ... 
-
-O maior custo no proxecto case sempre corresponde ás persoas, polo que é importante controlar o número de horas que se invisten en cada actividade para que non se nos desequilibre o orzamento. Tamén hai que coidar as subcontratacións; convén que traballen cun orzamento establecido.
- A continuación preséntanse dúas opción de táboa para facilitar a creación do orzamento do proxecto:
-
-### Orzamento do proxecto real
 
 | CONCEPTO | IMPORTE|
 |--|--|
