@@ -49,7 +49,8 @@ Autorizase a copia, distribución e modificación deste documento baixo os termo
     
     5.6. [CONFIGURACIÓN DE ALERTAS ICINGA2](doc/documentacion/icinga2_alertas.md)
 
-
+    5.7. [APERTURA DE PORTOS ROUTER DE R](doc/documentacion/apertura_de_portos.md)
+    
 ## Guía de contribución
 
 As ferramentas e software utilizado neste proxecto son na súa maioría software libre e de código aberto. A mellor forma de contribuír é mellorando calquera destas ferramentas ademáis de contribuír con melloras, novas funcionalidades e ideas para a optimización do conxunto do sistema. 
