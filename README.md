@@ -1,14 +1,19 @@
 # Sistema de videovixilancia con Raspberry Pi
 
-## Descripción
+## Descrición
 
-O proxecto consiste nunha alternativa para implantar nun sistema Linux que fose moito máis configurable que un NVR estándar para ter a nosa vivenda vixiada cando non estamos. A idea sería facer unha infraestructura totalmente configurable e o máis accesible posible para establecer nun ámbito doméstico, o hardware elixido é unha Raspberry Pi, que é compacta, asequible e moi versátil para a nosa tarefa. Podemos utilizar todo tipo de cámaras, ben sexan: cámaras USB, cámaras oficiales de Raspberry, cámaras IP, etc.
+O proxecto consiste nunha alternativa para implantar nun sistema Linux que fose moito máis configurable que un NVR estándar para ter a nosa vivenda vixiada cando non estamos. 
+
+A idea sería facer unha infraestructura totalmente configurable e o máis accesible posible para establecer nun ámbito doméstico, o hardware elixido é unha Raspberry Pi, que é compacta, asequible e moi versátil para a nosa tarefa. Podemos utilizar todo tipo de cámaras, ben sexan: cámaras USB, cámaras oficiales de Raspberry, cámaras IP, etc.
+
 Podería contemplarse a posibilidade de engadir tamén sensores de movemento independentes e algunha pequena alarma.
+
 Ademáis, contaría cun sistema de alertas que chegaría a algún medio que o usuario posúa, ben sexa a través de SMS, un bot de Telegram, correo electrónico ou outro medio. Debemos contar con un sistema para almacenar as imaxes no caso de que se detecte movemento, contando ca nosa propia nube privada no propio dispositivo. 
+
 Todos estes servizos deben estar correctamente monitorizados no caso de que fallen, polo que tamén se desplegará un sistema de monitorización de servizos en rede, amais de securizar a rede o mellor posible para que non entren intrusos. 
 
 
-## Sobre el autor
+## Sobre o autor
 
 Chámome Rebeca Ledo Barreiro, son Técnico en Sistemas Microinformáticos e Redes (SMR), neste intre estudo Administración de Sistemas Informáticos en Rede do cal, estou a facer as FCT e este mesmo proxecto. De maneira simultánea tamén estudo Desenrolo de Aplicacións Web. 
 
@@ -16,7 +21,7 @@ Este proxecto é unha oportunidade para aprender moito e aproveitar todas as fer
 
 Sempre fun unha persoa moi curiosa por o mundo da informática, polo que, no meu tempo libre, intento buscar cousas cas que experimentar e das que aprender, tamén por iso, me matriculei en DAW, xa que a programación abre moitas portas para crear moitas cousas de proveito.
 
-## Licencia
+## Licenza
 
 Autorizase a copia, distribución e modificación deste documento baixo os termos da licenza de documentación libre GNU, versión 1.3 ou calquera outra que posteriormente publique a Fundación do Software Libre (Free Software Fundation); sen seccións invariantes (Unvariant Sections), textos de portada (Front-Cover Texts), nin textos de contraportada (Back-Cover Texts).
 
@@ -69,3 +74,4 @@ Por exemplo, podería intentar crease un frontend propio en lugar de utilizar un
 
 #### Varios
 - [Regra dos 3 clics](https://es.wikipedia.org/wiki/Regla_de_los_tres_clics)
+- [Análise de certificados SSL](https://www.ssllabs.com/ssltest/index.html)
