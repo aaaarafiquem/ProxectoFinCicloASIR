@@ -66,18 +66,25 @@ Comprobamos se hai novas actualizacións:
 
 ![motioneye_9](doc/img/motioneye_images/9.PNG)
 
+Por último, abriremos o porto polo que se comunica MotionEye, o 8765:
+
+![motioneye_12](doc/img/motioneye_images/12.PNG)
+
 Una vez feito, imos a http://ip_do_server:8765 e vemos a páxina de login:
 
 ![motioneye_10](doc/img/motioneye_images/10.PNG)
-
 
 E temos a interface lista, lembrar cambiar o contrasinal, xa que por defecto o usuario é **admin** sen contrasinal:
 
 ![motioneye_11](doc/img/motioneye_images/11.PNG)
 
+Como desexamos que funcione sobre **https** iremos ó noso VirtualHost e faremos as configuracións necesarias para as redireccións **de http a https**.
 
+Tamén se redireccionará o tráfico de https://raspbicctv.ga ó MotionEye directamente.
 
+![motioneye_13](doc/img/motioneye_images/13.PNG)
 
+![motioneye_14](doc/img/motioneye_images/14.PNG)
 
 
 
