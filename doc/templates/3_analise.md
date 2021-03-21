@@ -207,3 +207,4 @@ Este proxecto está centrado en cubrir unha necesidade que moita xente ten e non
 - Integrar varios tipos de sensores (fume, humidade, sonido...).
 - Crear un frontend propio para así poder decidir o rumbo que vai tomar e poder integrar todo o anterior sen depender de ninguén.
 - Adquisición dun bo servidor central e un servizo de hosting profesional.
+- Instalación e configuración de nube privada con servizos do tipo Owncloud ou NextCloud para ter maior control sobre os nosos datos.
