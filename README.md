@@ -25,8 +25,6 @@ Sempre fun unha persoa moi curiosa por o mundo da informática, polo que, no meu
 
 Autorizase a copia, distribución e modificación deste documento baixo os termos da licenza de documentación libre GNU, versión 1.3 ou calquera outra que posteriormente publique a Fundación do Software Libre (Free Software Fundation); sen seccións invariantes (Unvariant Sections), textos de portada (Front-Cover Texts), nin textos de contraportada (Back-Cover Texts).
 
-
-
 ## Índice
 
 1. Anteproyecto
@@ -35,7 +33,7 @@ Autorizase a copia, distribución e modificación deste documento baixo os termo
 2. [Análisis](doc/templates/3_analise.md)
 3. [Planificación](doc/templates/4_planificacion.md)
 4. [Diseño](doc/templates/5_deseño.md)
-5. [Implantación](doc/templates/6_implantacion.md)
+5. Implantación
 
     5.1. [INSTALACIÓN E CONFIGURACIÓN BÁSICA DE RASPBERRY PI OS](doc/documentacion/raspbian.md)
     
