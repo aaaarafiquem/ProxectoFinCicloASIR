@@ -46,7 +46,7 @@ Faranos a seguinte pregunta, que dependendo da nosa configuración respoderemos 
 
 ![icinga2_7](doc/img/icinga2_images/7.PNG)
 
-Comprobamos no directorio por defecto /var/lib/nagios/plugins/ que, efectivamente, alí se atopan:
+Comprobamos no directorio por defecto **/var/lib/nagios/plugins/** que, efectivamente, alí se atopan:
 
 ![icinga2_5](doc/img/icinga2_images/5.PNG)
 
