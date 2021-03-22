@@ -44,12 +44,14 @@ Autorizase a copia, distribución e modificación deste documento baixo os termo
     5.4. [INSTALACIÓN E CONFIGURACIÓN DE DASHING DASHBOARD DE ICINGA2](doc/documentacion/icinga2_dashing_dashboard.md)
 
     5.5. [APERTURA DE PORTOS ROUTER DE R](doc/documentacion/apertura_de_portos.md)
+     
+    5.6. [CONFIGURACIÓN PREVIA DAS CÁMARAS](doc/documentacion/pre_configuracion_camaras.md)
 
-    5.6. [CONFIGURACIÓN DE ALERTAS MOTIONEYE](doc/documentacion/motioneye_alertas.md)
+    5.7. [CONFIGURACIÓN DE ALERTAS MOTIONEYE](doc/documentacion/motioneye_alertas.md)
     
-    5.7. [CONFIGURACIÓN DE ALERTAS ICINGA2](doc/documentacion/icinga2_alertas.md)
+    5.8. [CONFIGURACIÓN DE ALERTAS ICINGA2](doc/documentacion/icinga2_alertas.md)
 
-    5.8. [CONFIGURACIÓN DE HOSTS E SERVIZOS EN ICINGA2](doc/documentacion/config_hosts_services_icinga2.md)
+    5.9. [CONFIGURACIÓN DE HOSTS E SERVIZOS EN ICINGA2](doc/documentacion/config_hosts_services_icinga2.md)
      
 ## Guía de contribución
 
@@ -89,3 +91,4 @@ Por exemplo, podería intentar crease un frontend propio en lugar de utilizar un
 #### Varios
 - [Regra dos 3 clics](https://es.wikipedia.org/wiki/Regla_de_los_tres_clics)
 - [Análise de certificados SSL](https://www.ssllabs.com/ssltest/index.html)
+- [Base de datos de cámaras de iSpy](https://www.ispyconnect.com/cameras#google_vignette)
