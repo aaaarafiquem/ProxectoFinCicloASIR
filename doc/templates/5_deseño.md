@@ -1,6 +1,6 @@
 # FASE DE DESEÑO
 
-## Diagrama de compoñentes do sistema
+## Diagrama de compoñentes do sistema - MotionEye
 
 No caso de MotionEye, o seu creador propón varios escenarios de uso, todos eles recollidos na [súa Wiki](https://github.com/ccrisan/motioneyeos/wiki/Usage-Scenarios). 
 
@@ -48,6 +48,22 @@ O servidor terá unha importante carga de traballo por ter que manexar varios se
 
 ![diagrama_motioneye_4](doc/img/diagramas_images/diagrama-multiples-dispositivos-un-servidor-central.png)
 
+## Diagrama de compoñentes do sistema - Icinga2
+
+Na seguinte imaxe temos os compoñentes de Icinga2:
+
+![icinga2_schema_1](doc/img/diagramas_images/icinga2-schema.jpg)
+
+Neste outro vemos en forma de pequeno esquema os compoñentes e como se conectan entre eles para o seu correcto funcionamento:
+
+![icinga2_schema_2](doc/img/diagramas_images/icinga2-schema-arquitecture.jpg)
+
+No último esquema aquí mostrado, vemos como sería un entorno de monitorización distribuida. O noso escenario non é o suficientemente complexo como para implementar este tipo de configuración. 
+
+En cambio, se temos en mente o suposto de empresa no que en caso de que os clientes requiran ter algún tipo de soporte, si sería convinte ter un servidor central como **zonas master** e cada unha das instalacións dos clientes como **zonas satellite**.
+
+
+![icinga2_schema_3](doc/img/diagramas_images/icinga2-distribued-monitoring-schema.png)
 
 ## Diagrama de rede
 
@@ -66,7 +82,7 @@ Como este tipo de conexións requiren unha IP localizable, nunca funcionarán. A
 
 Polo que, a alternativa sería conexións de ADSL ou Fibra. O problema é que en moitos sitios non chega a cobertura dese tipo de conexións, polo que en caso de ser imposible cambiar o tipo de conexión a Internet teríamos que poñer outro servidor de MotionEye e replicar algo similar ó escenario 4 anteriormente descrito.
 
-![diagrama_rede](doc/img/diagramas_images/diagrama_rede_proxecto.png)
+![diagrama_rede](doc/img/diagramas_images/esquema_rede_proxecto.jpg)
 
 
 ## Configuración dos compoñentes
