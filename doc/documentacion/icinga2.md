@@ -1,5 +1,15 @@
 #	INSTALACIÓN Icinga2
 
+## Credenciais de acceso a MotionEye
+
+Para acceder imos á páxina dedicada no proxecto de [Icinga Web 2](https://raspbicctv.ga/icingaweb2/).
+
+**Usuario administrador**
+- **Nome usuario:** icinga2admin
+- **Contrasinal:** t&Y(:dGM4Ds+VxfL
+
+## Instalación
+
 Aseguramonos que a máquina está actualizada:
 
 `$ sudo apt update && apt upgrade -y`
