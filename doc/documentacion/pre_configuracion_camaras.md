@@ -1,19 +1,19 @@
 # Configuración previa das cámaras
 
-Antes de poder engadir as cámaras a MotionEye, debemos facer unha pequena configuración inicial.
+Antes de poder engadir as cámaras a MotionEye, debemos facer unha pequena **configuración inicial**.
 
-Neste punto explicarase brevemente os pasos a seguir tanto ca cámara de Raspberry Pi como ca cámara IP TP-Link C200.
+Neste punto explicarase brevemente os pasos a seguir tanto ca **cámara de Raspberry Pi** como ca **cámara IP TP-Link C200**.
 
 ## Cámara de Raspberry Pi
 
-O primeiro paso sería conectala na nosa Raspberry Pi, no porto CSI para cámaras:
+O primeiro paso sería conectala na nosa Raspberry Pi, no **porto CSI** para cámaras:
 
 ![rpi_parte_traseira](doc/img/produtos/13.jpg) 
 E montar de novo a carcasa da Raspberry:
 
 ![rpi_parte_traseira](doc/img/produtos/14.jpg) 
 
-Por último, debemos ir á Configuración de Raspberry Pi:
+Por último, debemos ir á **Configuración de Raspberry Pi**:
 
 ![rpi_config](doc/img/confi_camaras_images/1.PNG)
 
@@ -23,7 +23,7 @@ E activamos na xanela de **Interfaces** a opción **Cámara**:
 
 ## Cámara de TP-Link C200
 
-O primeiro paso é descargar a aplicación na Play Store ou App Store, dependendo do móbil que teñamos.
+O primeiro paso é descargar a aplicación na **Play Store** ou **App Store**, dependendo do móbil que teñamos.
 
 Ó abrila temos unha interface coma esta:
 
@@ -33,9 +33,9 @@ Tocamos o botón de arriba a dereita con un símbolo + para engadir unha nova c�
 
 ![tp_link_config_camara_2](doc/img/confi_camaras_images/4.jpg)
 
-Ó revisar cal é o noso modelo e tocar no correcto, teremos que facer o proceso de sincronización ca nosa rede Wifi.
+Ó revisar cal é o noso modelo e tocar no correcto, teremos que facer o proceso de sincronización **ca nosa rede Wifi**.
 
-Destacar que este tipo de aparellos só funciona en conexións Wifi 2.4 GHz polo que se non está segmentado haberá que habilitalo na configuración do router.
+Destacar que este tipo de aparellos **só funciona en conexións Wifi 2.4 GHz** polo que se non está segmentado haberá que habilitalo na configuración do router.
 
 Omitimos o proceso de sincronización, xa que é indicar a que rede se vai conectar e poñer as credenciais...
 
@@ -51,7 +51,7 @@ Facemos clic no engranaxe que se encontra arriba á dereita e teremos como resul
 
 Ó facer clic na primeira opción cunha miniatura da imaxe e o nome que lle demos á cámara, levaranos a outro menú. 
 
-Nel observamos algúns datos interesantes como a dirección IP otorgada, a dirección MAC, a versión do firmware entre outros:
+Nel observamos algúns **datos interesantes** como a **dirección IP** otorgada, a **dirección MAC**, a **versión do firmware** entre outros:
 
 ![tp_link_config_camara_5](doc/img/confi_camaras_images/7.jpg)
 
@@ -67,11 +67,12 @@ Aquí temos a opción **Cuenta de cámara**:
 
  ![tp_link_config_camara_9](doc/img/confi_camaras_images/10.jpg)
 
-Despois necesitaríamos saber cal sería a dirección de onde sacará o streaming de imaxe. Para isto iremos á base de datos de cámaras que encontramos na [web de iSpy](https://www.ispyconnect.com/cameras#google_vignette). Buscaremos a marca e modelo da nosa cámara, completamos cos datos correctos e xeraranos a dirección correcta:
+Despois necesitaríamos saber cal sería a **dirección de onde sacará o streaming de imaxe**. Para isto iremos á base de datos de cámaras que encontramos na [web de iSpy](https://www.ispyconnect.com/cameras#google_vignette). Buscaremos a marca e modelo da nosa cámara, completamos cos datos correctos e xeraranos a dirección correcta:
 
  ![tp_link_config_camara_10](doc/img/confi_camaras_images/12.JPG)
 
-Podemos probar que funciona dende o reproductor VLC:
+Podemos probar que funciona dende o **reproductor VLC**:
 
  ![tp_link_config_camara_11](doc/img/confi_camaras_images/13.jpg)
 
+Unha vez que temos esto feito, pasaremos ó seguinte punto...
