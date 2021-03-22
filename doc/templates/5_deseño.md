@@ -4,7 +4,8 @@
 
 ## Diagrama de rede
 
-## Diagrama de base de datos
+![diagrama_rede](doc/img/diagrama_rede_proxecto.png)
+
 
 ## Configuración dos compoñentes
 Aspectos máis relevantes da configuración dos compoñentes máis importantes, como as regras de filtrado do router, a configuración do directorio activo ou do DNS, etc
@@ -13,6 +14,3 @@ Aspectos máis relevantes da configuración dos compoñentes máis importantes, 
 ### Configuración compoñente 2
 
 ### ...
-
-## Control da calidade
-¿Qué aspectos compre controlar para garantir a calidade do proxecto? ¿Que procedementos ou actividades se levarán a cabo para garantir que o sistema cumpra os seus obxectivos de calidade?
