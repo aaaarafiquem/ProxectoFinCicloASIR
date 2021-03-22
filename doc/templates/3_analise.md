@@ -187,7 +187,27 @@ No mercado hai unha amplia gama de aplicacións para este propósito, como Zabbi
 Por último, pero non menos importante, teño coñecemento e interés na instalación e configuración desta aplicación, polo que me resultará máis sinxelo desenvolver esta tarefa.
 
 ## Análise de riscos e interesados
-Determinar todas aquelas persoas, entidades ou cousas que poden ter un impacto (positivo ou negativo) no proxecto ou na idea de negocio, e indicar as medidas a levar a cabo para tratar de potenciar os impactos positivos e evitar ou mitigar os posibles impactos negativos.
+
+Neste punto faremolo mediante unha matriz de skateholder. Esta identifica os grupos de interese dunha empresa con todas aquelas persoas ou entidades que a afectan en maior ou menor medida polas decisións e actividades que desenvolve e que permiten, á súa vez, o funcionamento completo da mesma.
+
+A continuación, vemos un pequeno esquema que ilustra os grupos de interese máis habituais dunha matriz de skateholder:
+
+![esquema_skateholder_ejemplo](doc/img/diagramas_images/esquema-organization-empresa-corporate-social-stakeholders.png)
+
+A seguinte imaxe sería o matriz de skateholder de forma resumida:
+
+![matriz_skateholder](doc/img/diagramas_images/matriz_skateholder.png)
+
+Vemos que os **clientes** están ubicados no sector laranxa, teñen pouco poder e moito interés. Polo que, debemos escoitar as súas opinións e mantelos satisfeitos.
+
+- Os **proveedores** están ubicados no sector verde, teñen pouco poder e pouco interés. Serían os interesados en vendernos o material que necesitario.
+- As **empresas da competencia**, ubicadas no sector de cor vermello, teñen moito poder e moito interés. Debemos estar atentos ás ofertas que poidan facer na nosa contra poida restar atractivo ao teu á nosa empresa, vixiar que non copien a nosa idea de negocio...
+- Os **bancos**, ubicados no sector de cor vermello, teñen moito poder e moito interés. Necesitamos unha conta bancaria para a nosa sociedade, polo que estarán interesados en ser o noso banco. Ademais, en caso de necesitar diñeiro para algunha fase do proxecto, teñen moito poder porque son os que teñen a capacidade de otorgarnos ese préstamo.
+- Os **posibles clientes**, ubicados no sector de cor amarelo, teñen moito poder e pouco interés. Debemos mantelos informados de todas as nosas ofertas e servizos. Un bo sistema de Marketing sería o adecuado.
+- O **goberno**, está ubicado no sector de cor amarelo, moito poder e pouco interés. Estarán atentos a que cumplimos con toda a normativa e leis vixentes, ademais de estar atentos a novas leis ou modificacións para amoldarnos a elas.
+- A **administración**, ubicada no sector de cor amarelo, moito poder e pouco interés. Estará ollo avizor comprobando que pagamos taxas e impostos.
+- Por último, os **acreedores**, ubicados no sector de cor verde, teñen pouco poder e pouco interés. Serían os que encargados de prestarnos un servizo. Como por exemplo: luz, auga, no caso de alugar un local o propietario tamén sería tamén acreedor, etc...
+
 
 ## Actividades
 Definir, de forma xeral, os pasos que se han seguir para levar a cabo o proxecto, de forma que na fase de planificación nos sirvan como referencia para detallar as tarefas, recursos e temporalización necesaria para cada fase.
