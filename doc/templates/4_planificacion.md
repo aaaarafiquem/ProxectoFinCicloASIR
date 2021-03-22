@@ -143,6 +143,8 @@ Descrición: Comprobamos que chegamos correctamente cos nomes do noso dominio e 
 ### Diagrama de Gantt
 Un diagrama de Gantt é unha representación gráfica da secuenciación que tes que seguir para realizar as tarefas planificadas. Pódese usar o software "Gantt project" ou calquera outro que permita representar nun cronograma a información relativa á planificación de tarefas. 
 
+![diagrama_gantt](doc/img/diagramas_images/diagrama_gantt.png)
+
 ## Orzamento
 
 A seguinte táboa mostra o orzamento real que se levou a cabo para executar este proxecto na realidade. O importe dos artigos é orientativo xa que, o prezo pode variar dependendo do paso do tempo ou da dispoñibilidade de ofertas.
