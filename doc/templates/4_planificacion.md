@@ -230,6 +230,8 @@ A sociedade ten que inscribirse no Rexistro Mercantil da provincia na que se fix
 8. **Obtención do N.I.F. definitivo**
     Unha vez completados os pasos anteriores, debemos dirixirnos novamente a Facenda para canxear a tarxeta provisional de N.I.F. pola definitiva, inscribindo efectivamente a constitución da sociedad. Se se fai con DUE poderemos obter o documento de forma telemática.
 
+### Orzamento de taxas dunha empresa
+
 | TAXA | IMPORTE |
 |--|--|
 | Certificado negativo de denominación social | 16,00 ~ € 
