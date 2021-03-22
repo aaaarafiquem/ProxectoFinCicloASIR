@@ -8,7 +8,7 @@ A idea sería facer unha infraestructura totalmente configurable e o máis acces
 
 Podería contemplarse a posibilidade de engadir tamén sensores de movemento independentes e algunha pequena alarma.
 
-Ademáis, contaría cun sistema de alertas que chegaría a algún medio que o usuario posúa, ben sexa a través de SMS, un bot de Telegram, correo electrónico ou outro medio. Debemos contar con un sistema para almacenar as imaxes no caso de que se detecte movemento, contando ca nosa propia nube privada no propio dispositivo. 
+Ademáis, contaría cun sistema de alertas que chegaría a algún correo electrónico, ainda que poderían configurarse ben sexa a través de SMS, un bot de Telegram ou outro medio. Debemos contar con un sistema para almacenar as imaxes no caso de que se detecte movemento, neste caso, gardaránse no almacenamento da propia Raspberry Pi, ainda que o ideal sería contar ca nosa propia nube privada para que as imaxes estén seguras. 
 
 Todos estes servizos deben estar correctamente monitorizados no caso de que fallen, polo que tamén se desplegará un sistema de monitorización de servizos en rede, amais de securizar a rede o mellor posible para que non entren intrusos. 
 
@@ -47,29 +47,36 @@ Autorizase a copia, distribución e modificación deste documento baixo os termo
      
     5.6. [CONFIGURACIÓN PREVIA DAS CÁMARAS](doc/documentacion/pre_configuracion_camaras.md)
 
-    5.7. [CONFIGURACIÓN DE ALERTAS MOTIONEYE](doc/documentacion/motioneye_alertas.md)
-    
-    5.8. [CONFIGURACIÓN DE ALERTAS ICINGA2](doc/documentacion/icinga2_alertas.md)
+    5.7. [FUNCIONAMENTO MOTIONEYE](doc/documentacion/funcionamento_motioneye.md)
 
-    5.9. [CONFIGURACIÓN DE HOSTS E SERVIZOS EN ICINGA2](doc/documentacion/config_hosts_services_icinga2.md)
+    5.8. [CONFIGURACIÓN DE ALERTAS MOTIONEYE](doc/documentacion/motioneye_alertas.md)
+    
+    5.9. [CONFIGURACIÓN DE ALERTAS ICINGA2](doc/documentacion/icinga2_alertas.md)
+
+    5.10. [CONFIGURACIÓN DE HOSTS E SERVIZOS EN ICINGA2](doc/documentacion/config_hosts_services_icinga2.md)
      
 ## Guía de contribución
 
 As ferramentas e software utilizado neste proxecto son na súa maioría software libre e de código aberto. A mellor forma de contribuír é mellorando calquera destas ferramentas ademáis de contribuír con melloras, novas funcionalidades e ideas para a optimización do conxunto do sistema. 
 
-Por exemplo, podería intentar crease un frontend propio en lugar de utilizar un dunha terceira persoa, entre outras moitas cousas.
-
+Por exemplo, podería intentar crease un frontend propio en lugar de utilizar un de terceiros, entre outras moitas cousas.
 
 ## Links
 
 #### Raspberry Pi
+- [Páxina de descarga oficial de Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit)
 - [Páxina de FAQs de Raspberry Pi](https://www.raspberrypi.org/documentation/faqs/#commercial-integrate)
-#### Estadísticas e leis
+
+#### Estadísticas, leis e información oficial
 - [Portal Estadístico de Criminalidade (SEC)](https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/portal/balances.html)
 - [Documento consolidado BOE-A-2014-3649](https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649&p=20140405&tn=1)
 - [Documento consolidado BOE-A-2018-16673](https://www.boe.es/boe_gallego/dias/2018/12/06/pdfs/BOE-A-2018-16673-G.pdf)
 - [Guía sobre el uso de videocámaras para seguridad y otras finalidades](https://www.aepd.es/sites/default/files/2019-09/guia-videovigilancia.pdf)
 - [Clasificación Nacional de Actividades Económicas](https://www.cnae.com.es/index.php)
+- [Impuesto sobre Actividades Económicas (IAE)](https://www.agenciatributaria.gob.es/AEAT.sede/procedimientoini/G323.shtml)
+- [Descrición formas xurídicas, Sociedade Limitada](https://plataformapyme.es/es-es/IdeaDeNegocio/Paginas/FormasJuridicas-Descripcion.aspx?cod=SLNE&nombre=Sociedad+Limitada+Nueva+Empresa&idioma=es-ES)
+- [Tasas para unha empresa de Seguridade Privada](http://www.interior.gob.es/web/servicios-al-ciudadano/tasas/seguridad-privada)
+
 #### Documentación
 - [Documentación oficial de Motion](https://motion-project.github.io/motion_guide.html)
 - [Documentación oficial de MotionEye](https://github.com/ccrisan/motioneye/wiki)
