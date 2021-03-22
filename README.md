@@ -83,6 +83,7 @@ Por exemplo, podería intentar crease un frontend propio en lugar de utilizar un
 - [Documentación oficial Icinga2](https://icinga.com/docs/icinga-2/latest/doc/01-about/)
 - [Documentación oficial Icinga2 Web](https://icinga.com/docs/icinga-web-2/latest/)
 - [Documentación oficial sobre as notificacións de Icinga2](https://icinga.com/docs/icinga-2/latest/doc/03-monitoring-basics/#notifications)
+- [Información acerca da matriz de skateholder](https://negociosyempresa.com/matriz-de-stakeholders/rl)
 
 #### Colaboracións da comunidade
 
