@@ -80,7 +80,7 @@ Temos 3 ubicacións diferentes:
 
 Como este tipo de conexións requiren unha IP localizable, nunca funcionarán. Ainda que o router nos de a opción de facelo, as conexións entrantes "perderanse" no proxy.
 
-Polo que, a alternativa sería conexións de ADSL ou Fibra. O problema é que en moitos sitios non chega a cobertura dese tipo de conexións, polo que en caso de ser imposible cambiar o tipo de conexión a Internet teríamos que poñer outro servidor de MotionEye e replicar algo similar ó escenario 4 anteriormente descrito.
+Polo que, a alternativa sería conexións de ADSL ou Fibra. O problema é que en moitos sitios non chega a cobertura dese tipo de conexións, polo que en caso de ser imposible cambiar o tipo de conexión a Internet poderíamos probar a facer unha VPN e tratar de reenviar os portos a través dela.
 
 ![diagrama_rede](doc/img/diagramas_images/esquema_rede_proxecto.jpg)
 
