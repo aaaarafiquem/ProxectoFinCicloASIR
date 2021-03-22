@@ -12,7 +12,7 @@ Unha vez feito vemos un numeroso abanico de opcións dispoñibles, pero antes, n
 
 Para iso imos arriba á esquerda e facemos clic no despregable. Seleccionamos a opción **add camera...**:
 
-![funcionamento_motioneye_1](doc/img/funcionamento_motioneye_images/7.JPG)
+![funcionamento_motioneye_1](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/funcionamento_motioneye_images/7.JPG)
 
 Ten varios tipos de cámaras para engadir:
 
@@ -24,15 +24,15 @@ Ten varios tipos de cámaras para engadir:
 
 Se queremos engadir unha cámara IP, simplemente necesitamos saber a súa dirección e, en caso de ter credenciais, poñer as correctas:
 
-![funcionamento_motioneye_2](doc/img/funcionamento_motioneye_images/8.JPG)
+![funcionamento_motioneye_2](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/funcionamento_motioneye_images/8.JPG)
 
 Neste exemplo, imos engadir a cámara de Raspberry Pi. Dado que non é unha cámara IP, a opción correcta **sería Local MMA Camera**. Despois, só teremos dispoñible a opción **VideoCore Camera**:
 
-![funcionamento_motioneye_3](doc/img/funcionamento_motioneye_images/9.JPG)
+![funcionamento_motioneye_3](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/funcionamento_motioneye_images/9.JPG)
 
 Unha vez que demos clic en OK, teremos a cámara engadida:
 
-![funcionamento_motioneye_4](doc/img/funcionamento_motioneye_images/10.JPG)
+![funcionamento_motioneye_4](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/funcionamento_motioneye_images/10.JPG)
 
 ## Opcións do servizo
 
@@ -41,31 +41,31 @@ Despois de engadir cámaras, podemos observar moitas opcións de configuración:
 - Preferencias
 - Parámetros xerais
 
-![funcionamento_motioneye_5](doc/img/funcionamento_motioneye_images/1.JPG)
+![funcionamento_motioneye_5](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/funcionamento_motioneye_images/1.JPG)
 
 - Dispositivos de vídeo
 - Almacenamento de arquivos
 
-![funcionamento_motioneye_6](doc/img/funcionamento_motioneye_images/2.JPG)
+![funcionamento_motioneye_6](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/funcionamento_motioneye_images/2.JPG)
 
 - Superposición de texto
 - Video Streaming
 - Still Images
 
-![funcionamento_motioneye_7](doc/img/funcionamento_motioneye_images/3.JPG)
+![funcionamento_motioneye_7](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/funcionamento_motioneye_images/3.JPG)
 
 - Películas
 
-![funcionamento_motioneye_8](doc/img/funcionamento_motioneye_images/4.JPG)
+![funcionamento_motioneye_8](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/funcionamento_motioneye_images/6.JPG)
 
 - Detección de Movemento (Motion)
 - Notificacións de Movemento
 
-![funcionamento_motioneye_9](doc/img/funcionamento_motioneye_images/6.JPG)
+![funcionamento_motioneye_9](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/funcionamento_motioneye_images/4.JPG)
 
 - Días de funcionamento
 
-![funcionamento_motioneye_10](doc/img/funcionamento_motioneye_images/5.JPG)
+![funcionamento_motioneye_10](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/funcionamento_motioneye_images/5.JPG)
 
 Todas as opcións dispoñibles son moi intuitivas, polo que non hai nada que resaltar.
 
