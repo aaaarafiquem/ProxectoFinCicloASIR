@@ -192,6 +192,7 @@ Os socios deberán redactar os Estatutos Sociaies, que son o conxunto de normas 
 Existen unha serie de elementos mínimos cos que debe contar calquera Estatuto Social, tales como a **denominación da sociedade**, na que deberá figurar necesariamente a expresión **“sociedade de responsabilidade limitada”**; o **Obxecto social ou actividade** á que se vai adicar a sociedade, **a data de peche de cada exercicio**, o d**omicilio social** dentro do territorio español, **o capital social**, as **participacións** en que se divida, **valor nominal** de cada participación e numeración das mesmas, e o sistema de **administración da sociedade**.
 
 4. **Escritura pública da constitución**
+
 A firma da escritura pública da constitución da sociedade por parte de todos os socios realízase ante notario, o que conleva un pequeno custo, xeralmente un porcentaxe sobre o capital escriturado. É un trámite previo á posterior inscripción no Rexistro Mercantil. Para isto é necesario aportar a seguinte documentación:
 	-   Estatutos Sociales da Sociedade.
     - 	O orixnal da Certificación negativa do registro mercantil central.
@@ -229,6 +230,27 @@ A sociedade ten que inscribirse no Rexistro Mercantil da provincia na que se fix
 8. **Obtención do N.I.F. definitivo**
     Unha vez completados os pasos anteriores, debemos dirixirnos novamente a Facenda para canxear a tarxeta provisional de N.I.F. pola definitiva, inscribindo efectivamente a constitución da sociedad. Se se fai con DUE poderemos obter o documento de forma telemática.
 
+| TAXA | IMPORTE |
+|--|--|
+| Certificado negativo de denominación social | 16,00 ~ € 
+| Capital mínimo inicial | 3.000 €
+| Autorización e inscripción de empresas de seguridade | 375,45 €
+| Modificación na sede de rexistro do domicilio social, ámbito territorial de actuación e ampliación de actividades, incluído o desprazamento e informe pertinente por parte do persoal da Administración | 263,81 €
+| Modificación na sede de rexistro do capital social, propiedade de accións ou participacións, cancelación do rexistro, modificacións estatutarias, variacións na composición persoal dos seus órganos de administración e xestión e na uniformidade do persoal de seguridade | 113,59 €
+| Autorización de apertura de delegacións de empresas de seguridade | 142,49 €
+| Autorización para abrir un establecemento obrigado a ter medidas de seguridade, exención e exención de medidas de seguridade e, en xeral, outras autorizacións que impliquen desprazamentos e informe do persoal da Administración | 211,84 €
+| Habilitación de xestores e xefes de seguridade | 96,27 €
+| Habilitación de garda de seguridade e garda rural, incluídas as súas respectivas especialidades | 63,52 €
+| Participación nos exames e probas previas á cualificación de gardas de seguridade e gardas rurais, incluídas as súas respectivas especialidades | 23,11 €
+| Compulsa de documentos | 3,88 €
+| Incremento por cada páxina do documento a compulsar | 1,93 €
+| Expedición de certificacións | 23,11 €
+| Aumentar por cada páxina de extensión que precise certificación | 1,93 €
+
+
+| TOTAL | PROXECTO | 
+|--|--|
+| -- | 4.336,93 € |
 
 
 ### WEBGRAFÍA
