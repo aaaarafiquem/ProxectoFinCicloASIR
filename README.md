@@ -30,9 +30,9 @@ Autorizase a copia, distribución e modificación deste documento baixo os termo
 1. Anteproyecto
     * 1.1. [Idea](doc/templates/1_idea.md)
     * 1.2. [Necesidades](doc/templates/2_necesidades.md)
-2. [Análisis](doc/templates/3_analise.md)
+2. [Análise](doc/templates/3_analise.md)
 3. [Planificación](doc/templates/4_planificacion.md)
-4. [Diseño](doc/templates/5_deseño.md)
+4. [Deseño](doc/templates/5_deseño.md)
 5. Implantación
 
     5.1. [INSTALACIÓN E CONFIGURACIÓN BÁSICA DE RASPBERRY PI OS](doc/documentacion/raspbian.md)
