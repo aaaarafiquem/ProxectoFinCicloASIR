@@ -71,7 +71,7 @@ No seguinte diagrama de rede podemos ver o escenario real que se realizou neste 
 
 Temos 3 ubicacións diferentes:
 
-- **Ubicación 1:** nesta primeira ubicación, teremos a nosa Raspberry Pi actuando de servidor, unha cámara IP e a cámara de Raspberry Pi dentro da mesma rede local. Fixose un reenvío de portos para poder ós servizos dende Internet.
+- **Ubicación 1:** nesta primeira ubicación, teremos a nosa Raspberry Pi actuando de servidor, unha cámara IP e a cámara de Raspberry Pi dentro da mesma rede local. Fixose un reenvío de portos para poder acceder ós servizos dende Internet.
 - **Ubicación 2:** na segunda ubicación simplemente temos unha cámara IP, esta ten saída a Internet xa que se fixo o reenvío do porto que utiliza para facer o streaming de vídeo. Engadese no servidor de MotionEye da **ubicación 1**.
 - **Ubicación 3:** esta sería calquera ubicación remota que non sexa ningunha das dúas anteriores. O dispositivo pode ser calquera (PC, portátil, móbil, tablet...) con conexión a Internet. Poderá acceder ó servizos de MotionEye e os outros que existan no servidor sen ningún impedimento.
 
