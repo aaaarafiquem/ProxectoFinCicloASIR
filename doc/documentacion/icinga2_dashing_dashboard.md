@@ -1,5 +1,12 @@
 # INSTALACIÓN e CONFIGURACIÓN de Dashing Dashboard en Icinga2
 
+## Acceso a Icinga2 Dashing Dashboard
+
+Para acceder imos á páxina dedicada no proxecto do [Icinga2 Dashing Dashboard](https://raspbicctv.ga/icinga2).
+
+
+## Instalación
+
 Para instalar o Dashing Dashboard para Icinga2, só temos que seguir as instruccións do [repositorio oficial](https://github.com/mocdaniel/dashing-icinga2).
 
 Primeiro que nada, situarnos no directorio **/usr/share/**:
