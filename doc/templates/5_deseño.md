@@ -34,7 +34,7 @@ Temos unha configuración local de MotionEye que pode controlar remotamente outr
 
 ![diagrama_motioneye_3](doc/img/diagramas_images/diagrama-multiples-dispositivos-un-hub.png)
 
-Podemos usar cámaras NON IP con equipos de placa reducida conectados. Por exemplo, unha **cámara de Raspberry Pi** e** unha Raspberry Pi Zero W** co servizo MotionEye instalado:
+Podemos usar cámaras NON IP con equipos de placa reducida conectados. Por exemplo, unha **cámara de Raspberry Pi** e **unha Raspberry Pi Zero W** co servizo MotionEye instalado:
 
 ![diagrama_motioneye_3](doc/img/diagramas_images/rpi_zero_camera.jpg)
 
