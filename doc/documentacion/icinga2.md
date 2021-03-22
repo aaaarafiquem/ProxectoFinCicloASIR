@@ -1,6 +1,6 @@
 #	INSTALACIÓN Icinga2
 
-## Credenciais de acceso a MotionEye
+## Credenciais de acceso a Icinga Web 2
 
 Para acceder imos á páxina dedicada no proxecto de [Icinga Web 2](https://raspbicctv.ga/icingaweb2/).
 
