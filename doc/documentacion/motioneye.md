@@ -1,5 +1,19 @@
 #	INSTALACIÓN de MotionEye
 
+## Credenciais de acceso a MotionEye
+
+Para acceder imos á páxina dedicada no proxecto de [MotionEye](https://raspbicctv.ga/motioneye/).
+
+**Usuario administrador**
+- **Nome usuario:** admin
+- **Contrasinal:** t&Y(:dGM4Ds+VxfL
+
+**Usuario normal**
+- **Nome usuario:** user
+- **Contrasinal:** RaspbiContrasinal123.
+
+## Instalación 
+
 Realizar a instalación de MotionEye é moi sinxelo, ademais de que se fai en escasos minutos.
 
 O primeiro paso é instalar a colección de software **ffmpeg**, unha colección de software libre para poder grabar, convertir e facer streaming de audio e vídeo, ademais de varias dependencias:
