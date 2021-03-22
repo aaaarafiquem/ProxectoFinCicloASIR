@@ -50,6 +50,22 @@ Recursos hardware/software:
 - Repositorio de MotionEye
 - Conexión a Internet
 
+##### Tarefa 2: Configuración previa de cámaras
+
+Descrición: Facer a configuración previa de sincronización de cámaras IP ca rede WiFi ou montar as cámaras no servidor.
+
+Recursos hardware/software:
+
+- Tipo de cámaras desexado
+- Apps móbiles para cada cámara dependendo da marca (en caso de necesitala)
+- Conexión a Internet
+
+##### Tarefa 3: Engadir e configurar cámaras en MotionEye
+
+Descrición: Configurar as cámaras en MotionEye poñendo onde queremos que se garden as imaxes, o texto en pantalla...
+
+- Instalación de MotionEye completada e funcional
+
 #### Fase 4: Instalación do software de monitorización: Icinga2
 
 ##### Tarefa 1: Instalación de Icinga2
