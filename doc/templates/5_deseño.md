@@ -76,9 +76,9 @@ Temos 3 ubicacións diferentes:
 - **Ubicación 3:** esta sería calquera ubicación remota que non sexa ningunha das dúas anteriores. O dispositivo pode ser calquera (PC, portátil, móbil, tablet...) con conexión a Internet. Poderá acceder ó servizos de MotionEye e os outros que existan no servidor sen ningún impedimento.
 
 
-**APUNTE IMPORTANTE:** no caso de ter unha conexión usando tecnoloxía de red móbil (como o caso de Internet por radio que tanto se oferta nas aldeas) non será posible facer o reenvío de portos debido a que á hora de sair a Internet faise baixo un proxy, polo que a IP pública é compartida con máis clientes da compañía con ese mesmo servizo. 
+**APUNTE IMPORTANTE:** no caso de ter unha conexión usando tecnoloxía de red móbil (como o caso de Internet con un router 4G que tanto se oferta nas aldeas) non será posible facer o reenvío de portos debido a que á hora de sair a Internet faise baixo un proxy, polo que a IP pública é compartida con máis clientes da compañía con ese mesmo servizo. 
 
-Como este tipo de conexións requiren unha IP localizable, nunca funcionarán. Ainda que o router nos de a opción de facelo, as conexións entrantes "perderanse" no proxy.
+Como este tipo de conexións 4G requiren unha IP localizable, nunca funcionarán. Ainda que o router nos de a opción de facelo, as conexións entrantes "perderanse" no proxy.
 
 Polo que, a alternativa sería conexións de ADSL ou Fibra. O problema é que en moitos sitios non chega a cobertura dese tipo de conexións, polo que en caso de ser imposible cambiar o tipo de conexión a Internet poderíamos probar a facer unha VPN e tratar de reenviar os portos a través dela.
 
