@@ -23,23 +23,23 @@ No contido por defecto do ficheiro **/etc/icinga2/conf.d/users.conf** podemos ob
 
 **NOTA:** se non indicamos ningún atributo de configuración de estados e tipos para os usuarios, enviaranse notificacións para todos eles.
 
-![icinga2_alertas_1](doc/img/icinga2_alertas_images/1.PNG)
+![icinga2_alertas_1](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/1.PNG)
 
 Esta mesma configuración podemos atopala tamén na interface web.
 
 No apartado **Contacts**, vemos o noso usuario **icingaadmin** co mesmo nome e correo indicado no ficheiro:
 
-![icinga2_alertas_2](doc/img/icinga2_alertas_images/2.PNG)
+![icinga2_alertas_2](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/2.PNG)
 
 Vemos que no apartado **ContactGroups** está o usuario que nomeamos anteriormente como membro:
 
-![icinga2_alertas_3](doc/img/icinga2_alertas_images/3.PNG)
+![icinga2_alertas_3](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/3.PNG)
 
 ## Arquivo notifications.conf
 
 O seguinte arquivo a comprobar sería o **notifications.conf**. 
 
-![icinga2_alertas_4](doc/img/icinga2_alertas_images/4.PNG)
+![icinga2_alertas_4](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/4.PNG)
 
 Para crear obxectos de notificación utilízase a palabra **apply**. Podemos tamén, engadir o atributo user_groups cunha lista de grupos de usuarios ao obxecto Notification. Desta maneira, Icinga 2 enviará notificacións a todos os membros dese grupo. 
 
@@ -51,7 +51,7 @@ Aquí vemos un exemplo con dúas das nosas cámara, engadindo só a seguinte li�
     groups = [ "icingaadmins" ]
   }`
 
-![icinga2_alertas_5](doc/img/icinga2_alertas_images/5.PNG)
+![icinga2_alertas_5](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/5.PNG)
 
 Poderemos recibir notificacións sobre o host indicando o grupo de usuarios ou os usuarios de forma explícita.
 
@@ -61,7 +61,7 @@ Estes son os scripts que van facer o traballo de mandar o correo co seu formato.
 
 Cos scripts por defecto, as notificacións por mail serían tal que así:
 
-![icinga2_alertas_6](doc/img/icinga2_alertas_images/6.PNG)
+![icinga2_alertas_6](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/6.PNG)
 
 Cumplen coa súa función, pero son bastante toscas e moi pouco intuitivas visualmente. Coñecendo a comunidade de usuarios de Icinga2, cunha búsqueda rápida pola rede din cunha plantilla HTML que embelece as alertas por correo do usuario de GitHub **shyamjos**. O script está [neste repositorio](https://github.com/shyamjos/HTML-email-template-for-Icinga-2) do seu GitHub e tamén temos unha breve explicacion e vista previa [na súa páxina web](https://shyamjos.com/icinga2-html-template/).
 
@@ -71,28 +71,28 @@ A instalación das plantillas non pode ser máis sinxela que substituír as anti
 
 Facemos antes unha copia dos arquivos orixinales en caso de que algo vaia mal:
 
-![icinga2_alertas_9](doc/img/icinga2_alertas_images/9.PNG)
+![icinga2_alertas_9](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/9.PNG)
 
 Se observamos unha parte do script, vemos que podemos tamén cambiar ó noso gusto as variables e o texto que estaría no corpo do correo:
 
-![icinga2_alertas_10](doc/img/icinga2_alertas_images/10.PNG)
+![icinga2_alertas_10](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/10.PNG)
 
 Lembrar darlle permisos de execución os novos scripts, senón daría erro de permisos como podemos ver nos logs:
 
-![icinga2_alertas_11](doc/img/icinga2_alertas_images/11.PNG)
+![icinga2_alertas_11](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/11.PNG)
 
 Damos entón, permisos de execución a ambos arquivos:
 
-![icinga2_alertas_12](doc/img/icinga2_alertas_images/12.PNG)
+![icinga2_alertas_12](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/12.PNG)
 
 E revisamos de novo que si envía a alerta nos logs:
 
-![icinga2_alertas_13](doc/img/icinga2_alertas_images/13.PNG)
+![icinga2_alertas_13](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/13.PNG)
 
 Despois, comprobamos no correo se chegou correctamente:
 
-![icinga2_alertas_7](doc/img/icinga2_alertas_images/7.PNG)
+![icinga2_alertas_7](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/7.PNG)
 
 Finalmente, de facer un par de cambios, traducimos o texto do corpo do correo ó galego e quedaría desta maneira.
 
-![icinga2_alertas_8](doc/img/icinga2_alertas_images/8.PNG)
+![icinga2_alertas_8](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/icinga2_alertas_images/8.PNG)
