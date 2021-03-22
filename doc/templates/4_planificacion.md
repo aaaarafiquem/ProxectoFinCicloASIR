@@ -210,7 +210,7 @@ Para os supostos exentos deste gravamen, é dicir, aqueles que teñan unha cifra
 
     6.3. **Declaración censal (IVA)**
 
-    Nesta declaración detállase o comezo, a modificación ou o cese da actividade. Debe ser presentada por todos os nomeados no punto anterior ademais de todos aqueles con obrigacións tributarias. Para a súa expedición, é necesario aportar o **modelo oficial 036**, o **NIF da Sociedade** e o d**ocumento acreditativo de alta** no **Impuesto de Actividades Económicas**.
+    Nesta declaración detállase o comezo, a modificación ou o cese da actividade. Debe ser presentada por todos os nomeados no punto anterior ademais de todos aqueles con obrigacións tributarias. Para a súa expedición, é necesario aportar o **modelo oficial 036**, o **NIF da Sociedade** e o **documento acreditativo de alta** no **Impuesto de Actividades Económicas**.
 
 7. **Inscripción no Rexistro Mercantil**
 A sociedade ten que inscribirse no Rexistro Mercantil da provincia na que se fixou o seu domicilio social. Para isto, ten un plazo de dous meses dende a obtención da escritura da constitución e necesita aportar a seguinte documentación:
