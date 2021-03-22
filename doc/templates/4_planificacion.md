@@ -1,7 +1,5 @@
 # FASE DE PLANIFICACIÓN DO PROXECTO
 
-## Obxectivos do proxecto
-
 ## Guía de planificación do proxecto
 
 ### Metodoloxía
@@ -147,6 +145,8 @@ Un diagrama de Gantt é unha representación gráfica da secuenciación que tes 
 
 ## Orzamento
 
+A seguinte táboa mostra o orzamento real que se levou a cabo para executar este proxecto na realidade. O importe dos artigos é orientativo xa que, o prezo pode variar dependendo do paso do tempo ou da dispoñibilidade de ofertas.
+
 | CONCEPTO | IMPORTE|
 |--|--|
 | Raspberry Pi 3 B+ | 36,95 € 
@@ -159,6 +159,72 @@ Un diagrama de Gantt é unha representación gráfica da secuenciación que tes 
 | TOTAL | PROXECTO | 
 |--|--|
 | -- | 149,51 € |
+
+## Orzamento no suposto da creación dunha empresa
+
+### Trámites necesarios
+
+Como se falou en anteriores puntos, no suposto de crear unha empresa, estimouse que a creación dunha Sociedade Limitada sería o adecuado.
+
+Para crear unha **sociedade limitada (S.L.)** teremos que ter claros os trámites obrigatorios:
+
+1. **Rexistrar o nome da empresa**
+
+Deberíamos dirixirnos ó Rexistro Mercantil Central e solicitar o certificado negativo de denominación social, é dicir, o documento que acredita que o nome elixido para a sociedade ou empresa non coincide co de ningunha outra sociedade xa existente. 
+Para a obtención deste certificado debemos presentar o documento no que figuren tres posibles nomes para a empresa. Este trámite pódese realizar online na web do Rexistro Mercantil (o que sería perfecto tendo en conta os tempos que corren) central dende 16 euros. 
+Unha vez concedido o certificado, o nome quedará reservado durante seis meses. En caso de superar este período, debemos proceder a renovación do mesmo. 
+
+2. **Abrir unha conta bancaria a nome da empresa**
+
+Unha vez obtido o certificado, debemos de abrir unha conta bancaria a nome da empresa que se vai constituir e ingresar o capital mínimo inicial, uns 3.000 euros de forma íntegra. O banco emitirá un certificado de dito ingreso que posteriormente se presentará na notaría. 
+
+Normalmente non nos permitirán dispor dos cartos ata que presentemos no banco a alta en Facenda e as escrituras selladas polo rexistro mercantil.
+
+3. **Redacción dos Estatutos Sociales**
+
+Os socios deberán redactar os Estatutos Sociaies, que son o conxunto de normas que rexirán a empresa e que se incorporarán posteriormente á escritura pública da constitución. Normalmente, esta tarefa delegase a un abogado ou notaría pola complexidade da mesma, aínda que, agora este trámite simplificouse moito se se crea a SL a través dun PAE, xa que se usan uns estatutos simplificados tipo sen custo.
+
+Existen unha serie de elementos mínimos cos que debe contar calquera Estatuto Social, tales como a **denominación da sociedade**, na que deberá figurar necesariamente a expresión **“sociedade de responsabilidade limitada”**; o **Obxecto social ou actividade** á que se vai adicar a sociedade, **a data de peche de cada exercicio**, o d**omicilio social** dentro do territorio español, **o capital social**, as **participacións** en que se divida, **valor nominal** de cada participación e numeración das mesmas, e o sistema de **administración da sociedade**.
+
+4. **Escritura pública da constitución**
+A firma da escritura pública da constitución da sociedade por parte de todos os socios realízase ante notario, o que conleva un pequeno custo, xeralmente un porcentaxe sobre o capital escriturado. É un trámite previo á posterior inscripción no Rexistro Mercantil. Para isto é necesario aportar a seguinte documentación:
+	-   Estatutos Sociales da Sociedade.
+    - 	O orixnal da Certificación negativa do registro mercantil central.
+    - 	Certificación bancaria da aportación diñeiral do Capital Social.
+    - 	D.N.I. orixinal de cada un dos socios fundadores.
+    - 	Declaración de inversións exteriores (en caso de que algún dos socios sexa estranxeiro).
+
+5. Liquidación do Impuoto sobre Transmisións Patrimoniais
+O Impuesto sobre Transmisións Patrimoniais e Actos Xurídicos Documentados é un tributo que gravaba a constitución da sociedade e que había que liquidar nas oficinas de Facenda da CA nun plazo de 30 días dende o otorgamento da escritura. Para iso, debemos aportar debidamente cumplimentado o **modelo 600**, xunto coa copia simple da escritura pública ou fotocopia da mesma. O seu importe ascendía o 1% do capital social.
+
+6. **Trámites en Facenda**
+
+    6.1. **Obtención do Número de Identificación Fiscal**
+
+    Tras a firma das escrituras, debemos dirixirnos a Facenda para obter o N.I.F. provisional da túa sociedade, que ten unha validez de 6 meses, así como as         etiquetas e tarxetas identificativas. Para isto, debemos aportar debidamente cumprimentado o **modelo 036**, a fotocopia do D.N.I do firmante e     a fotocopia da escritura de constitución da empresa obtida no notario.
+
+    6.2. **Alta no I.A.E.**
+
+    Tamén terás que debemos darnos de alta no Impuesto de Actividades Económicas (IAE). Trátase dun tributo local que grava a actividade de empresas,    profesionais e artistas e necesita de tantas altas como actividades se vaian a desenrolar. Para levar a cabo os trámites de alta, modificación ou baixa deste tributo, será necesario que aportes o modelo 840 xunto co NIF na Administración Tributaria correspondente a onde se exerce a actividade. 
+Para os supostos exentos deste gravamen, é dicir, aqueles que teñan unha cifra de negocio inferior a 1.000.000 de euros o ano, só é necesario aportar o modelo 036 da declaración censal indicando os epígrafes IAE aos que te acolles.
+
+    6.3. **Declaración censal (IVA)**
+
+    Nesta declaración detállase o comezo, a modificación ou o cese da actividade. Debe ser presentada por todos os nomeados no punto anterior ademais de todos aqueles con obrigacións tributarias. Para a súa expedición, é necesario aportar o **modelo oficial 036**, o **NIF da Sociedade** e o d**ocumento acreditativo de alta** no **Impuesto de Actividades Económicas**.
+
+7. **Inscripción no Rexistro Mercantil**
+A sociedade ten que inscribirse no Rexistro Mercantil da provincia na que se fixou o seu domicilio social. Para isto, ten un plazo de dous meses dende a obtención da escritura da constitución e necesita aportar a seguinte documentación:
+    - 	Copia auténtica da escritura de constitución da Sociedade.
+    - 	Certificación negativa de denominación social.
+    - 	Documento acreditativo de haber liquidado o Impuesto sobre Transmisións Patrimoniais e Actos Xurídicos Documentados.
+    - 	Copia do N.I.F. Provisional.
+    - 	Este paso tamén se inclúe no DUE, polo que non é necesario acudir o Rexistro Mercantil se traballamos cun PAE como Infoautónomos.
+
+
+8. **Obtención do N.I.F. definitivo**
+    Unha vez completados os pasos anteriores, debemos dirixirnos novamente a Facenda para canxear a tarxeta provisional de N.I.F. pola definitiva, inscribindo efectivamente a constitución da sociedad. Se se fai con DUE poderemos obter o documento de forma telemática.
+
+
 
 ### WEBGRAFÍA
 Guía para a elaboración de proyectos. Gobierno Vasco.
