@@ -69,19 +69,19 @@ Porque é, xunto a Arduino, un dos ordenadores de placa única máis famosos e e
 - Tamaño reducido.
 
 
-![rpi_esquema](doc/img/produtos/1.png) _**Imaxe explicativa dunha Raspberry Pi 3 Modelo B+**_
+![rpi_esquema](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/1.png) _**Imaxe explicativa dunha Raspberry Pi 3 Modelo B+**_
 
 
 Existen varias alternativas no mercado como, por exemplo, a **Rock64** ou **Banana Pi**. Ben é certo que algunhas delas teñen características superiores pero tamén teñen un prezo máis elevado, polo que tendo en conta a filosofía do proxecto e que as características da Raspberry son máis que suficientes para abordalo, este foi elixido como núcleo do proxecto.
 
 
-![rpi_conectada](doc/img/produtos/2.jpg) _**Imaxe da Raspberry Pi con unha carcasa conectada á rede cun cable RJ45**_
+![rpi_conectada](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/2.jpg) _**Imaxe da Raspberry Pi con unha carcasa conectada á rede cun cable RJ45**_
 
-![rpi_parte_traseira](doc/img/produtos/3.jpg) _**Imaxe da parte traseira da Raspberry Pi**_
+![rpi_parte_traseira](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/3.jpg) _**Imaxe da parte traseira da Raspberry Pi**_
 
-![rpi_parte_traseira](doc/img/produtos/13.jpg) _**Imaxe da conexión da cámara de Raspberry Pi no porto CSI**_
+![rpi_parte_traseira](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/13.jpg) _**Imaxe da conexión da cámara de Raspberry Pi no porto CSI**_
 
-![rpi_parte_traseira](doc/img/produtos/14.jpg) _**Imaxe comparación de cámara conectada á Raspberry Pi**_
+![rpi_parte_traseira](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/14.jpg) _**Imaxe comparación de cámara conectada á Raspberry Pi**_
 
 ##### Cámaras IP
 
@@ -97,9 +97,9 @@ As escollidas foron a TP-Link Tapo C200 e a Xiaomi 360º 1080p, que contan coas 
 - Compatibles con Alexa e Google Home.
 - Configuración sinxela.
 
-![tp_link_tapo](doc/img/produtos/4.jpg) _**Imaxe da TP-Link Tapo C200**_
+![tp_link_tapo](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/4.jpg) _**Imaxe da TP-Link Tapo C200**_
 
-<img src="doc/img/produtos/5.jpg"  width="570" height="570"> _**Imaxe da Xiaomi Mi Home 360º 1080p**_
+<img src="https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/5.jpg"  width="570" height="570"> _**Imaxe da Xiaomi Mi Home 360º 1080p**_
 
 Hai diferentes marcas de cámaras IP e distintos rangos de prezos, sen embargo, escollín estas dúas marcas por ser marcas recoñecidas, por a súa fiabilidade e por o seu prezo accesible. 
 
@@ -129,13 +129,13 @@ Conta cas seguintes características:
 - LED inflarroxo, permite a visión nocturna.
 - Compatible con todos os modelos de Raspberry Pi (1,2,3,4...) e outros modelos de placas como Arduino.
 
-<img src="doc/img/produtos/6.jpg"  alt="rpi_camera_noir" width="550" height="550"> _**Cámara Raspberry Pi NoIR**_
+<img src="https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/6.jpg"  alt="rpi_camera_noir" width="550" height="550"> _**Cámara Raspberry Pi NoIR**_
 
 Como podemos ver, é unha plaquiña que non podemos deixar ó aire libre por posibles estragos, polo que se lle pode poñer unha carcasa como a que vemos nas seguintes fotografías.
 
-![rpi_camera_noir_2](doc/img/produtos/7.jpg) _**Comparación do tamaño da cámara coa carcasa**_
+![rpi_camera_noir_2](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/7.jpg) _**Comparación do tamaño da cámara coa carcasa**_
 
-![rpi_camera_noir_3](doc/img/produtos/8.jpeg) _**Cámara montada na súa carcasa**_
+![rpi_camera_noir_3](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/8.jpeg) _**Cámara montada na súa carcasa**_
 
 ### Software
 Analizar as opcións software existentes e xustificar a idoneidade dos compoñentes seleccionados.
@@ -144,7 +144,7 @@ Analizar as opcións software existentes e xustificar a idoneidade dos compoñen
 
 **Raspberry Pi OS** (antes coñecido como Raspbian) é unha distribución de GNU/Linux baseada en Debian creada para a arquitectura **armkhf** cuxa última versión foi liberada o 11 de xaneiro de 2021, da actual versión de Debian, Buster.  É unha distro orientada ó aprendizaxe da informática, polo que é moi sinxela, con interface gráfica e varias ferramentas preinstaladas. Podemos facernos coa imaxe deste sistema dende a [páxina oficial de Raspberry Pi](https://www.raspberrypi.org/software/operating-systems/), en calquera das súas versións (con ou sen escritorio). É o sistema operativo recomendado por a Raspberry Pi Fountation.
 
-![rpios_logo](doc/img/produtos/9.jpg)
+![rpios_logo](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/9.jpg)
 
 Existen versións da arquitectura ARM de Sistemas Operativos alternativos das distribucións máis famosas (Debian, CentOS 7...). Sen embargo, como anteriormente se comentou, Raspberry Pi OS, é o sistema operativo recomendado por a Raspberry Pi Fountation, xa que está perfectamente optimizada para os seus dispositivos.
 
@@ -157,12 +157,12 @@ Existen versións da arquitectura ARM de Sistemas Operativos alternativos das di
 - Tarxetas de captura de vídeo.
 - Arquivos de vídeo existentes.
 
-![motioneye_logo](doc/img/produtos/10.png)
+![motioneye_logo](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/10.png)
 
 
 Volvendo a MotionEye, vemos que ten unha interface gráfica sinxela ca que podemos configurar todos os aspectos das cámaras, polo que non é necesario ser un usuario experto para poder utilizalo. Incluso existe unha distribución baseada en Debian chamada **MotionEyeOS**, aínda que para este caso, que imos ter outros servizos na mesma máquina para aforrar costes, non é o máis axeitado.
 
-![motioneye_0](doc/img/motioneye_images/0.png)
+![motioneye_0](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/motioneye_images/0.png)
 
 En todo existen alternativas. Por un lado, atopamos as alternativas gratuitas e OpenSource: ZoneMinder (dispoñible para Linux), Shinobi (multiplataforma) e iSpy (Freeware, só para sistemas Windows). 
 
@@ -174,7 +174,7 @@ En resumo, MotionEye foi a escollida porque previamente me chamou a atención Mo
 
 A monitorización de redes é moi importante nestes tempos nos que necesitamos saber se un servidor ou un servizo se viu comprometido ou sufriu unha caída. No noso caso escollín **Icinga2**, un software de monitorización de código aberto. 
 
-![icinga2_logo](doc/img/produtos/11.png)
+![icinga2_logo](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/11.png)
 
 É un fork do coñecido Nagios no ano 2009. A versión máis recente é a 2.11.8 (decembro de 2020). Icinga2 ademais, conta con unha gran varidade de módulos e plugins creados pola comunidade que axudan a todo o mundo. 
 
@@ -182,7 +182,7 @@ No mercado hai unha amplia gama de aplicacións para este propósito, como Zabbi
 
 **Por que Icinga2?** Ademais de porque é libre e gratuita, está en continuo desenvolvemento con unha gran comunidade detrás reportando e resolvendo erros. Funciona sobre módulos, polo que se necesitamos algunha funcionalidade a maiores, só temos que instalar ese módulo, por exemplo un módulo de análise de datos e gráficas como pode ser PNP.
 
-![icinga2_pnp4nagios](doc/img/produtos/12.jpg)
+![icinga2_pnp4nagios](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/produtos/12.jpg)
 
 Por último, pero non menos importante, teño coñecemento e interés na instalación e configuración desta aplicación, polo que me resultará máis sinxelo desenvolver esta tarefa.
 
@@ -192,11 +192,11 @@ Neste punto faremolo mediante unha matriz de skateholder. Esta identifica os gru
 
 A continuación, vemos un pequeno esquema que ilustra os grupos de interese máis habituais dunha matriz de skateholder:
 
-![esquema_skateholder_ejemplo](doc/img/diagramas_images/esquema-organization-empresa-corporate-social-stakeholders.png)
+![esquema_skateholder_ejemplo](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/diagramas_images/esquema-organization-empresa-corporate-social-stakeholders.png)
 
 A seguinte imaxe sería o matriz de skateholder de forma resumida:
 
-![matriz_skateholder](doc/img/diagramas_images/matriz_skateholder.png)
+![matriz_skateholder](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/diagramas_images/matriz_skateholder.png)
 
 Vemos que os **clientes** están ubicados no sector laranxa, teñen pouco poder e moito interés. Polo que, debemos escoitar as súas opinións e mantelos satisfeitos.
 
