@@ -6,11 +6,9 @@ No pasado ano 2020, según os datos dispoñibles no **Sistema Estadístico de Cr
 
 Nas seguintes imaxes, observamos unhas gráficas coa evolución dos roubos ata o 3º trimestre do ano 2020 ordenado por comunidades autónomas (polo momento non se dispoñen de datos do 4º):
 
-![robos_domicilio_violencia_1er_trimestre_2020](doc/img/necesidades_images/robos_domicilio_violencia_1er_trimestre_2020.PNG)
-![robos_domicilio_violencia_2do_trimestre_2020](doc/img/necesidades_images/robos_domicilio_violencia_2do_trimestre_2020.PNG)
-![robos_domicilio_violencia_3er_trimestre_2020](doc/img/necesidades_images/robos_domicilio_violencia_3er_trimestre_2020.PNG)
-
-
+![robos_domicilio_violencia_1er_trimestre_2020](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/necesidades_images/robos_domicilio_violencia_1er_trimestre_2020.PNG)
+![robos_domicilio_violencia_2do_trimestre_2020](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/necesidades_images/robos_domicilio_violencia_2do_trimestre_2020.PNG)
+![robos_domicilio_violencia_3er_trimestre_2020](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/necesidades_images/robos_domicilio_violencia_3er_trimestre_2020.PNG)
 
 Vemos que do 1º ó 2º trimestre, os roubos **aumentaron de 21.090 a 32.251**, esto coincide coa época do confinamento domiciliario, polo que se ve un **aumento de só 11.161** (a metade dos que ocorreron nun só trimestre). Seguidamente, no 2º ó 3º trimestre, **subiron de 32.251 a 52.891** (observamos que houbo o dobre de aumento, coincidindo co comezo do verán e o rebaixamento do confinamento).
 Tendo estas estadísticas en conta, hai moita xente que teme que asalten ou incluso okupen as súas segundas vivendas (aínda que isto último semella que non sucede de maneira tan habitual).
@@ -19,7 +17,7 @@ Ademáis de todas as estadísticas e experiencias da xente, unha das maiores mot
 
 Según o psicólogo estadounidense **Abraham Maslow** existen rasgos de personalidade moi semellantes en todas as persoas, tamén as mesmas necesidades e formas de satisfacelas. Foi o creador da pirámide que leva o seu propio nome **Pirámide de Maslow**, na que podemos observar as necesidades humanas divididas nunha xerarquía, estando na base, as máis básicas.
 
-![piramide_maslow](doc/img/necesidades_images/piramide_maslow.png)
+![piramide_maslow](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/necesidades_images/piramide_maslow.png)
 
 Vemos que, no segundo nivel temos a **Seguridade**, o tema principal que xira arredor deste proxecto. Con él cubriríamos tanto a seguridade física como a de propiedade privada, tendo en conta que é unha das necesidades que está case na base (2ª posición), polo que se entende que é primordial que sexa accesible para todo o mundo garantir a seguridade.
 
