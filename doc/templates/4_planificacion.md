@@ -28,7 +28,7 @@ Recursos necesarios: Un metro e unha libreta para apuntar todo o necesario.
 
 ##### Tarefa 1: Instalación e configuración de Raspberry Pi OS
 
-Descrición: Instalarase o Sistema Operativo e farase a configuración básica tal e como se explica no [punto 5.1](doc/documentacion/raspbian.md).
+Descrición: Instalarase o Sistema Operativo e farase a configuración básica tal e como se explica no [punto 5.1](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/documentacion/raspbian.md).
 
 Recursos hardware/software:
 - Raspberry Pi 3 B+
@@ -41,7 +41,7 @@ Recursos hardware/software:
 
 ##### Tarefa 1: Instalación de MotionEye
 
-Descrición: Executar a instalación de MotionEye no sistema, seguindo os pasos do [punto 5.2](doc/documentacion/motioneye.md).
+Descrición: Executar a instalación de MotionEye no sistema, seguindo os pasos do [punto 5.2](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/documentacion/motioneye.md).
 
 Recursos hardware/software:
 
@@ -68,7 +68,7 @@ Descrición: Configurar as cámaras en MotionEye poñendo onde queremos que se g
 
 ##### Tarefa 1: Instalación de Icinga2
 
-Descrición: Levarase a cabo a instalación de Icinga2, seguindo os pasos do [punto 5.3](doc/documentacion/icinga2.md).
+Descrición: Levarase a cabo a instalación de Icinga2, seguindo os pasos do [punto 5.3](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/documentacion/icinga2.md).
 
 Recursos hardware/software:
 
@@ -77,7 +77,7 @@ Recursos hardware/software:
 
 ##### Tarefa 2: Adquisición de nome de dominio e certificado SSL
 
-Descrición: Dentro do marco da instalación de Icinga2, creamos un nome de dominio (no noso caso, un gratuito). Indicado tamén no [punto 5.3](doc/documentacion/icinga2.md).
+Descrición: Dentro do marco da instalación de Icinga2, creamos un nome de dominio (no noso caso, un gratuito). Indicado tamén no [punto 5.3](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/documentacion/icinga2.md).
 
 Recursos hardware/software:
 
@@ -88,7 +88,7 @@ Recursos hardware/software:
 
 ##### Tarefa 3: Instalación de Dashing Dashboard
 
-Descrición: Instalación do Icinga2 Dashing Dashboard. Farase tamén a configuración básica tal e como se explica no [punto 5.4](doc/documentacion/icinga2_dashing_dashboard.md).
+Descrición: Instalación do Icinga2 Dashing Dashboard. Farase tamén a configuración básica tal e como se explica no [punto 5.4](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/documentacion/icinga2_dashing_dashboard.md).
 
 Recursos hardware/software:
 
@@ -99,7 +99,7 @@ Recursos hardware/software:
 
 Descrición: Abriranse os portos necesarios no router do cliente. Dependendo do operador, poderá variar a maneira de facelo.
 
-**NOTA:** No meu caso, fixen unha pequena guía da apertura dos portos nun router de R (que están moi capados) explicada no [punto 5.5](doc/documentacion/apertura_de_portos.md).
+**NOTA:** No meu caso, fixen unha pequena guía da apertura dos portos nun router de R (que están moi capados) explicada no [punto 5.5](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/documentacion/apertura_de_portos.md).
 
 Recursos hardware/software:
 
@@ -121,13 +121,13 @@ Recursos hardware/software:
 
 ##### Tarefa 2: Alertas de MotionEye
 
-Descrición: Configuraránse as alertas dentro da propia aplicación de MotionEye. Explicado no [punto 5.6](doc/documentacion/motioneye_alertas.md). 
+Descrición: Configuraránse as alertas dentro da propia aplicación de MotionEye. Explicado no [punto 5.8](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/documentacion/motioneye_alertas.md). 
 
 Recursos hardware/software: realmente ningún adicional, só poder acceder a MotionEye e o correo en cuestión.
 
 ##### Tarefa 3: Alertas de Icinga2
 
-Descrición: Configuraránse as alertas según as necesidades do cliente, tendo en conta a configuración da tarefa 1 e o explicado no [punto 5.7](doc/documentacion/icinga2_alertas.md).
+Descrición: Configuraránse as alertas según as necesidades do cliente, tendo en conta a configuración da tarefa 1 e o explicado no [punto 5.9](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/documentacion/icinga2_alertas.md).
 
 Recursos hardware/software: 
 
