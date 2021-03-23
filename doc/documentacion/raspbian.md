@@ -6,34 +6,34 @@ No meu caso, vou utilizar un software chamado Balena Etcher, podemos descargalo 
 
 Primeiro de todo, abrimos o programa e encontramos unha interfaz moi sinxela:
 
-![balena_1](doc/img/rapbian-images/balena-1.PNG)
+![balena_1](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/balena-1.PNG)
 
 
 Escollemos a imaxe que desexamos queimar na MicroSD:
 
-![balena_2](doc/img/rapbian-images/balena-2.PNG)
+![balena_2](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/balena-2.PNG)
 
 
 Como podemos ver, temos a imaxe seleccionada. Agora resta escoller un dispositivo no que queimala:
 
-![balena_3](doc/img/rapbian-images/balena-3.PNG)
+![balena_3](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/balena-3.PNG)
 
 
 Vemos que nos está avisando de que en varias unidades que temos nos está avisando de que son dispositivos con gran capacidade, tamén que son discos do sistema e que un deles é de onde proven a imaxe que estamos a coller:
 
-![balena_4](doc/img/rapbian-images/balena-4.PNG)
+![balena_4](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/balena-4.PNG)
 
 Unha vez que temos ambas cousas, só temos que darlle ó botón **Flash!** para que comece o proceso:
 
-![balena_5](doc/img/rapbian-images/balena-5.PNG)
+![balena_5](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/balena-5.PNG)
 
 Esperamos a que se complete...
 
-![balena_6](doc/img/rapbian-images/balena-6.PNG)
+![balena_6](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/balena-6.PNG)
 
 Unha vez feito, teremos unha pantalla coma esta:
 
-![balena_7](doc/img/rapbian-images/balena-7.PNG)
+![balena_7](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/balena-7.PNG)
 
 
 ## Instalación de Raspberry Pi OS
@@ -42,49 +42,49 @@ Coa imaxe do sistema flasheada na MicroSD, simplemente a introducimos na Raspber
 
 Unha vez feito, realicei un escaneo con nmap na miña máquina de traballo para ver se se lle otorgou unha configuración de rede correcta:
 
-![raspbian_1](doc/img/rapbian-images/1.PNG)
+![raspbian_1](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/1.PNG)
 
 Imos agora á consola e actualizamos:
 
-![raspbian_2](doc/img/rapbian-images/2.PNG)
+![raspbian_2](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/2.PNG)
 
-![raspbian_3](doc/img/rapbian-images/3.PNG)
+![raspbian_3](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/3.PNG)
 
 Imos ás _Preferencias > Configuración de Raspberry Pi_:
 
-![raspbian_4](doc/img/rapbian-images/4.PNG)
+![raspbian_4](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/4.PNG)
 
 Aquí activamos o servizo SSH e o servizo VNC:
 
-![raspbian_5](doc/img/rapbian-images/5.PNG)
+![raspbian_5](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/5.PNG)
 
 Unha vez feito, observamos que na barra de tarefas aparece o icono do servizo VNC:
 
-![raspbian_6](doc/img/rapbian-images/6.PNG)
+![raspbian_6](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/6.PNG)
 
 Volvendo agora ó meu equipo de traballo, descargamos VNC Viewer na súa [páxina oficial](https://www.realvnc.com/es/connect/download/viewer/). Unha vez instalado, abrimos o programa e teremos algo asi:
 
-![raspbian_7](doc/img/rapbian-images/7.PNG)
+![raspbian_7](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/7.PNG)
 
 En Archivo > Nueva conexión, creamos a conexión para a nosa Raspberry Pi:
 
-![raspbian_8](doc/img/rapbian-images/8.PNG)
+![raspbian_8](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/8.PNG)
 
 Engadimos a IP da máquina e o nome que lle queiramos dar para identificala:
 
-![raspbian_9](doc/img/rapbian-images/9.PNG)
+![raspbian_9](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/9.PNG)
 
 Observamos que se garda a conexión:
 
-![raspbian_10](doc/img/rapbian-images/10.PNG)
+![raspbian_10](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/10.PNG)
 
 Ó dar dobre clic, abrese unha xanela emerxente que nos pedirá o usuario e o contrasinal para conectarnos á Raspberry Pi. O usuario por defecto é **pi** e o contrasinal **raspberry**:
 
-![raspbian_11](doc/img/rapbian-images/11.PNG)
+![raspbian_11](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/11.PNG)
 
 Unha vez feito isto, efectuamos a conexión:
 
-![raspbian_12](doc/img/rapbian-images/12.PNG)
+![raspbian_12](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/12.PNG)
 
 ## SECURIZACIÓN BÁSICA DE RASPBERRY PI OS
 
@@ -95,53 +95,53 @@ Para instalar o cortafogos UFW utilizamos o comando:
 
 `# sudo apt install ufw -y`
 
-![raspbian_13](doc/img/rapbian-images/13.PNG)
+![raspbian_13](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/13.PNG)
 
 Agora, engadimos a regla para o noso futuro porto para a conexión SSH, o 3578. Activamos tamén o cortafogos:
 
-![raspbian_25](doc/img/rapbian-images/25.PNG)
+![raspbian_25](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/25.PNG)
 
 Engadimos tamén o porto do servizo VNC e comprobamos de novo o estado:
 
-![raspbian_26](doc/img/rapbian-images/26.PNG)
+![raspbian_26](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/26.PNG)
 
 O seguinte que imos facer é eliminar o usuario por defecto pi. Antes crearemos outro usuario:
 
 `# sudo adduser radmin`
 
-![raspbian_14](doc/img/rapbian-images/14.PNG)
+![raspbian_14](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/14.PNG)
 
 Engadimolo os grupos do sistema, ademais dos grupos de administración **sudo** e **adm**. Comprobamos que está nos grupos:
 
 `# sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi radmin`
 
-![raspbian_15](doc/img/rapbian-images/15.PNG)
+![raspbian_15](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/15.PNG)
 
 Unha vez engadido entramos como o usuario e comprobamos que temos permisos:
 
-![raspbian_16](doc/img/rapbian-images/16.PNG)
+![raspbian_16](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/16.PNG)
 
 Agora, pechamos sesión e iniciamos co noso **radmin** para eliminar o usuario **pi**:
 
-![raspbian_17](doc/img/rapbian-images/17.PNG)
+![raspbian_17](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/17.PNG)
 
-![raspbian_18](doc/img/rapbian-images/18.PNG)
+![raspbian_18](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/18.PNG)
 
 Eliminamos todos os procesos activos que tiveran que ver co usuario **pi** co seguinte comando:
 
 `# sudo pkill -eu pi`
 
-![raspbian_19](doc/img/rapbian-images/19.PNG)
+![raspbian_19](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/19.PNG)
 
 Eliminamos o usuario con:
 
 `# sudo userdel --remove-home pi`
 
-![raspbian_20](doc/img/rapbian-images/20.PNG)
+![raspbian_20](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/20.PNG)
 
 Comprobamos que o usuario se eliminou:
 
-![raspbian_21](doc/img/rapbian-images/21.PNG)
+![raspbian_21](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/21.PNG)
 
 ### SECURIZACIÓN DO SERVIZO SSH
 
@@ -161,7 +161,7 @@ Revisamos a sintaxe do ficheiro despois dos cambios, se non da saída significa 
 
 `# sudo sshd -t`
 
-![raspbian_22](doc/img/rapbian-images/22.PNG)
+![raspbian_22](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/22.PNG)
 
 E eliminamos o arquivo do usuario pi do sudoers:
 
@@ -171,9 +171,9 @@ Reiniciamos o servizo co seguinte comando:
 
 `# sudo systemctl restart sshd`
 
-![raspbian_23](doc/img/rapbian-images/23.PNG)
+![raspbian_23](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/23.PNG)
 
 Finalmente, comprobamos que nos podemos conectar vía SSH:
 
-![raspbian_24](doc/img/rapbian-images/24.PNG)
+![raspbian_24](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/rapbian-images/24.PNG)
 
