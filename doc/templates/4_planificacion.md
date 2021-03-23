@@ -144,7 +144,7 @@ Descrición: Comprobamos que chegamos correctamente cos nomes do noso dominio e 
 
 Neste punto teremos a imaxe do que se tardou en investigar e executar as tarefas referentes á creación deste proxecto.
 
-![diagrama_gantt](doc/img/diagramas_images/diagrama_gantt.png)
+![diagrama_gantt](https://github.com/aaaarafiquem/ProxectoFinCicloASIR/blob/master/doc/img/diagramas_images/diagrama_gantt.png)
 
 **Feito con Gantt Project**
 
